@@ -7,10 +7,10 @@ module.exports = function(grunt) {
     uglify: {
     jses: {
       files: {
-        'dist/js/theme.min.js': 'js/theme.js'
-        ,'dist/js/contact-form.min.js': 'js/contact-form.js'
-        ,'dist/js/navigation.min.js': 'js/navigation.js'
-        // 'dist/js/js.min.js': ['js/jquery-1.11.2.min.js','js/jquery-ui.min.js','js/boostrap.min.js','js/theme.js','js/contact-form.js','js/navigation.js']
+        // 'dist/js/theme.min.js': 'js/theme.js'
+        // ,'dist/js/contact-form.min.js': 'js/contact-form.js'
+        // ,'dist/js/navigation.min.js': 'js/navigation.js'
+        'dist/js/js.min.js': ['js/theme.js','js/navigation.js','js/contact-form.js']
       }
     }
   }
