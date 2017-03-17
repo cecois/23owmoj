@@ -57,9 +57,10 @@ $(window).load(function() {
     $(window).load(function () {
         // ----------------------------------------------------------------------------------------------------------------------->
         // SITE LOADER                     ||-----------
+        // 
         // ----------------------------------------------------------------------------------------------------------------------->
-        $('#loader').fadeOut();
-        $('#preloader').delay(350).fadeOut('fast');
+        // $('#loader').fadeOut();
+        // $('#preloader').delay(350).fadeOut('fast');
         $('body').delay(350).css({ 'overflow': 'visible' });
 
 
@@ -82,8 +83,8 @@ $(window).load(function() {
         winResize();
         // pushmenu();
         pluginElement();
-        sliderHero();
-        sliderAll();
+        // sliderHero();
+        // sliderAll();
         containerGridMasonry();
         scrollCallbackEle();
         shortcodeElements();
@@ -255,150 +256,150 @@ function fullScreenSlider() {
 // ---------------------------------------------------------------------------------------------------------------------------->
 
 
-function sliderAll() {
+// function sliderAll() {
 
-    // fullwidth Slider
-    $('.fullwidth-slider').owlCarousel({
-        slideSpeed: 400,
-        singleItem: true,
-        autoHeight: true,
-        navigation: true,  // Show next and prev buttons
-        pagination: true,  // Show pagination buttons
-        navigationText: ["<i class='fa fa-angle-left'></i>", "<i class='fa fa-angle-right'></i>"],
+//     // fullwidth Slider
+//     $('.fullwidth-slider').owlCarousel({
+//         slideSpeed: 400,
+//         singleItem: true,
+//         autoHeight: true,
+//         navigation: true,  // Show next and prev buttons
+//         pagination: true,  // Show pagination buttons
+//         navigationText: ["<i class='fa fa-angle-left'></i>", "<i class='fa fa-angle-right'></i>"],
 
-    });
+//     });
 
-    // Image Slider
-    $('.image-slider').owlCarousel({
-        navigation: true,  // Show next and prev buttons
-        pagination: true,  // Show pagination buttons
-        slideSpeed: 350,
-        paginationSpeed: 400,
-        singleItem: true,
-        navigationText: ["<i class='fa fa-angle-left'></i>", "<i class='fa fa-angle-right'></i>"],
-        autoPlay: false,
-        autoHeight: true,
-        responsive: true
-    });
+//     // Image Slider
+//     $('.image-slider').owlCarousel({
+//         navigation: true,  // Show next and prev buttons
+//         pagination: true,  // Show pagination buttons
+//         slideSpeed: 350,
+//         paginationSpeed: 400,
+//         singleItem: true,
+//         navigationText: ["<i class='fa fa-angle-left'></i>", "<i class='fa fa-angle-right'></i>"],
+//         autoPlay: false,
+//         autoHeight: true,
+//         responsive: true
+//     });
 
-    // Testimonial Slider
-    $('.testimonial-carousel').owlCarousel({
-        autoPlay: true,
-        autoHeight: true,
-        stopOnHover: true,
-        singleItem: true,
-        slideSpeed: 350,
-        pagination: true,  // Show pagination buttons
-        navigation: false,  // Hide next and prev buttons
-        navigationText: ["<i class='fa fa-angle-left'></i>", "<i class='fa fa-angle-right'></i>"],
-        //  responsive: true
-    });
+//     // Testimonial Slider
+//     $('.testimonial-carousel').owlCarousel({
+//         autoPlay: true,
+//         autoHeight: true,
+//         stopOnHover: true,
+//         singleItem: true,
+//         slideSpeed: 350,
+//         pagination: true,  // Show pagination buttons
+//         navigation: false,  // Hide next and prev buttons
+//         navigationText: ["<i class='fa fa-angle-left'></i>", "<i class='fa fa-angle-right'></i>"],
+//         //  responsive: true
+//     });
 
-    // Team Carousel
-    $('.team-carousel').owlCarousel({
-        autoPlay: false,
-        stopOnHover: true,
-        items: 3,
-        itemsDesktop: [1170, 3],
-        itemsDesktopSmall: [1024, 2],
-        itemsTabletSmall: [768, 1],
-        itemsMobile: [480, 1],
-        pagination: false,  // Hide pagination buttons
-        navigation: false,  // Hide next and prev buttons
-        navigationText: ["<i class='fa fa-angle-left'></i>", "<i class='fa fa-angle-right'></i>"]
-    });
+//     // Team Carousel
+//     $('.team-carousel').owlCarousel({
+//         autoPlay: false,
+//         stopOnHover: true,
+//         items: 3,
+//         itemsDesktop: [1170, 3],
+//         itemsDesktopSmall: [1024, 2],
+//         itemsTabletSmall: [768, 1],
+//         itemsMobile: [480, 1],
+//         pagination: false,  // Hide pagination buttons
+//         navigation: false,  // Hide next and prev buttons
+//         navigationText: ["<i class='fa fa-angle-left'></i>", "<i class='fa fa-angle-right'></i>"]
+//     });
 
-    // Client Carousel
-    $('.client-carousel').owlCarousel({
-        autoPlay: 2500,
-        stopOnHover: true,
-        items: 5,
-        itemsDesktop: [1170, 4],
-        itemsDesktopSmall: [1024, 3],
-        itemsTabletSmall: [768, 2],
-        itemsMobile: [480, 1],
-        pagination: false,  // hide pagination buttons
-        navigation: false,  // hide next and prev buttons
-        navigationText: ["<i class='fa fa-angle-left'></i>", "<i class='fa fa-angle-right'></i>"]
-    });
+//     // Client Carousel
+//     $('.client-carousel').owlCarousel({
+//         autoPlay: 2500,
+//         stopOnHover: true,
+//         items: 5,
+//         itemsDesktop: [1170, 4],
+//         itemsDesktopSmall: [1024, 3],
+//         itemsTabletSmall: [768, 2],
+//         itemsMobile: [480, 1],
+//         pagination: false,  // hide pagination buttons
+//         navigation: false,  // hide next and prev buttons
+//         navigationText: ["<i class='fa fa-angle-left'></i>", "<i class='fa fa-angle-right'></i>"]
+//     });
 
-    // Content Slider
-    $('.content-carousel').owlCarousel({
-        autoPlay: true,
-        autoHeight: true,
-        stopOnHover: true,
-        singleItem: true,
-        slideSpeed: 500,
-        pagination: false,  // Hide pagination buttons
-        navigation: true,   // Show next and prev buttons
-        navigationText: ["<i class='fa fa-angle-left'></i>", "<i class='fa fa-angle-right'></i>"],
-        responsive: true
-    });
+//     // Content Slider
+//     $('.content-carousel').owlCarousel({
+//         autoPlay: true,
+//         autoHeight: true,
+//         stopOnHover: true,
+//         singleItem: true,
+//         slideSpeed: 500,
+//         pagination: false,  // Hide pagination buttons
+//         navigation: true,   // Show next and prev buttons
+//         navigationText: ["<i class='fa fa-angle-left'></i>", "<i class='fa fa-angle-right'></i>"],
+//         responsive: true
+//     });
 
-    // Item-5 Carousel
-    $('.item5-carousel').owlCarousel({
-        autoPlay: 2500,
-        stopOnHover: true,
-        items: 5,
-        itemsDesktop: [1170, 3],
-        itemsDesktopSmall: [1024, 2],
-        itemsTabletSmall: [768, 1],
-        itemsMobile: [480, 1],
-        pagination: true,  // Show pagination buttons
-        navigation: true,  // Show next and prev buttons
-        navigationText: ["<i class='fa fa-angle-left'></i>", "<i class='fa fa-angle-right'></i>"]
-    });
+//     // Item-5 Carousel
+//     $('.item5-carousel').owlCarousel({
+//         autoPlay: 2500,
+//         stopOnHover: true,
+//         items: 5,
+//         itemsDesktop: [1170, 3],
+//         itemsDesktopSmall: [1024, 2],
+//         itemsTabletSmall: [768, 1],
+//         itemsMobile: [480, 1],
+//         pagination: true,  // Show pagination buttons
+//         navigation: true,  // Show next and prev buttons
+//         navigationText: ["<i class='fa fa-angle-left'></i>", "<i class='fa fa-angle-right'></i>"]
+//     });
 
-    // Item-4 Carousel
-    $('.item4-carousel').owlCarousel({
-        autoPlay: 2500,
-        stopOnHover: true,
-        items: 4,
-        itemsDesktop: [1170, 3],
-        itemsDesktopSmall: [1024, 2],
-        itemsTabletSmall: [768, 1],
-        itemsMobile: [480, 1],
-        pagination: false,  // Hide pagination buttons
-        navigation: true,  // Show next and prev buttons
-        navigationText: ["<i class='fa fa-angle-left'></i>", "<i class='fa fa-angle-right'></i>"]
-    });
+//     // Item-4 Carousel
+//     $('.item4-carousel').owlCarousel({
+//         autoPlay: 2500,
+//         stopOnHover: true,
+//         items: 4,
+//         itemsDesktop: [1170, 3],
+//         itemsDesktopSmall: [1024, 2],
+//         itemsTabletSmall: [768, 1],
+//         itemsMobile: [480, 1],
+//         pagination: false,  // Hide pagination buttons
+//         navigation: true,  // Show next and prev buttons
+//         navigationText: ["<i class='fa fa-angle-left'></i>", "<i class='fa fa-angle-right'></i>"]
+//     });
 
-    // Item-3 Carousel
-    $('.item3-carousel').owlCarousel({
-        autoPlay: false,
-        stopOnHover: true,
-        items: 3,
-        itemsDesktop: [1170, 3],
-        itemsDesktopSmall: [1024, 2],
-        itemsTabletSmall: [768, 1],
-        itemsMobile: [480, 1],
-        pagination: true,  // show pagination buttons
-        navigation: true,  // Show next and prev buttons
-        navigationText: ["<i class='fa fa-angle-left'></i>", "<i class='fa fa-angle-right'></i>"]
-    });
+//     // Item-3 Carousel
+//     $('.item3-carousel').owlCarousel({
+//         autoPlay: false,
+//         stopOnHover: true,
+//         items: 3,
+//         itemsDesktop: [1170, 3],
+//         itemsDesktopSmall: [1024, 2],
+//         itemsTabletSmall: [768, 1],
+//         itemsMobile: [480, 1],
+//         pagination: true,  // show pagination buttons
+//         navigation: true,  // Show next and prev buttons
+//         navigationText: ["<i class='fa fa-angle-left'></i>", "<i class='fa fa-angle-right'></i>"]
+//     });
 
-    // Item-1 Carousel
-    $('.item1-carousel').owlCarousel({
-        autoPlay: false,
-        autoHeight: true,
-        stopOnHover: true,
-        singleItem: true,
-        slideSpeed: 350,
-        pagination: true,  // Show pagination buttons
-        navigation: true,  // Show next and prev buttons
-        navigationText: ["<i class='fa fa-angle-left'></i>", "<i class='fa fa-angle-right'></i>"],
-        responsive: true
-    });
+//     // Item-1 Carousel
+//     $('.item1-carousel').owlCarousel({
+//         autoPlay: false,
+//         autoHeight: true,
+//         stopOnHover: true,
+//         singleItem: true,
+//         slideSpeed: 350,
+//         pagination: true,  // Show pagination buttons
+//         navigation: true,  // Show next and prev buttons
+//         navigationText: ["<i class='fa fa-angle-left'></i>", "<i class='fa fa-angle-right'></i>"],
+//         responsive: true
+//     });
 
 
-};
+// };
 
 
 
 // ---------------------------------------------------------------------------------------------------------------------------->
 // SLIDER-HERO FUNCTIONS   ||-----------
 // ---------------------------------------------------------------------------------------------------------------------------->
-
+/*
 function sliderHero() {
 
     $('.slider-hero').owlCarousel({
@@ -414,12 +415,12 @@ function sliderHero() {
         autoPlay: false,
         autoHeight: false,
 
-        //responsive: true,
-        //itemsDesktop: [3000, 1],
-        //itemsDesktopSmall: [1440, 1],
-        //itemsTablet: [1024, 1],
-        //itemsTabletSmall: [600, 1],
-        //itemsMobile: [360, 1],
+        responsive: true,
+        itemsDesktop: [3000, 1],
+        itemsDesktopSmall: [1440, 1],
+        itemsTablet: [1024, 1],
+        itemsTabletSmall: [600, 1],
+        itemsMobile: [360, 1],
 
         beforeMove: beforeMove,
         afterMove: afterMove,
@@ -458,7 +459,7 @@ function sliderHero() {
 
 };
 
-
+*/
 
 
 
@@ -515,16 +516,16 @@ function containerGridMasonry() {
     if ($(this).length > 0) {
         // ISOTOPE MASONRY ELEMENT  ||--------------
         var $container = $('.container-masonry');
-        $container.imagesLoaded(function () {
-            $container.isotope({
-                itemSelector: '.nf-item',
-                layoutMode: 'masonry',
-                masonry: {
-                    columnWidth: 0,
-                    gutter: 0
-                },
-            });
-        });
+        // $container.imagesLoaded(function () {
+        //     $container.isotope({
+        //         itemSelector: '.nf-item',
+        //         layoutMode: 'masonry',
+        //         masonry: {
+        //             columnWidth: 0,
+        //             gutter: 0
+        //         },
+        //     });
+        // });
 
         // bind filter button click
         $('.container-filter').on('click', '.categories', function () {
@@ -534,12 +535,12 @@ function containerGridMasonry() {
 
         // ISOTOPE GRID ELEMENT  ||--------------
         var $container2 = $('.container-grid');
-        $container2.imagesLoaded(function () {
-            $container2.isotope({
-                itemSelector: '.nf-item',
-                layoutMode: 'fitRows'
-            });
-        });
+        // $container2.imagesLoaded(function () {
+        //     $container2.isotope({
+        //         itemSelector: '.nf-item',
+        //         layoutMode: 'fitRows'
+        //     });
+        // });
 
         // bind filter categories click
         $('.container-filter').on('click', '.categories', function () {
@@ -561,10 +562,10 @@ function containerGridMasonry() {
     // Masonry Element
     if ($(this).length > 0) {
         var container = $('.masonry');
-        container.masonry({
-            // columnWidth: 0,
-            itemSelector: '.nf-item'
-        });
+        // container.masonry({
+        //     // columnWidth: 0,
+        //     itemSelector: '.nf-item'
+        // });
     };
 
 
@@ -574,22 +575,23 @@ function containerGridMasonry() {
 // SCROLL CALLBACK FUNCTION  ||-----------
 // ---------------------------------------------------------------------------------------------------------------------------->
 function scrollCallbackEle() {
+    return 0
     //scroll Callback Element
-    $('.load-ele-fade').viewportChecker({
-        classToAdd: 'visible animated fadeIn',
-        offset: 100,
-        callbackFunction: function (elem, action) {
-        }
-    });
+    // $('.load-ele-fade').viewportChecker({
+    //     classToAdd: 'visible animated fadeIn',
+    //     offset: 100,
+    //     callbackFunction: function (elem, action) {
+    //     }
+    // });
     //scroll Animate Element
-    wow = new WOW({
-        boxClass: 'wow',
-        animateClass: 'animated',
-        offset: 0,
-        mobile: false,
-        live: true
-    })
-    wow.init();
+    // wow = new WOW({
+    //     boxClass: 'wow',
+    //     animateClass: 'animated',
+    //     offset: 0,
+    //     mobile: false,
+    //     live: true
+    // })
+    // wow.init();
 };
 
 // ---------------------------------------------------------------------------------------------------------------------------->
@@ -749,6 +751,6 @@ function jqueryUi() {
 // ---------------------------------
 // Extra Jquery
 // ---------------------------------
-$(window).load(function () {
-    $(".all-demos-link").attr("href", "../demo.html");
-});
+// $(window).load(function () {
+//     $(".all-demos-link").attr("href", "../demo.html");
+// });

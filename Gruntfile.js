@@ -37,18 +37,27 @@ module.exports = function(grunt) {
       'dist/css/style.min.css': ['css/style.css']
       ,'dist/css/bootstrap.min.css': 'css/bootstrap.css'
       ,'dist/css/font-awesome.min.css': 'css/font-awesome.css'
-      ,'dist/css/ionicons.min.css': 'css/ionicons.css'
+      // ,'dist/css/ionicons.min.css': 'css/ionicons.css'
       ,'dist/css/custom.min.css': 'css/custom.css'
     }
   }
-}
+},image: {
+      dynamic: {
+        files: [{
+          expand: true,
+          cwd: 'img/',
+          src: ['**.{png,jpg,gif,svg}'],
+          dest: 'dist/img'
+        }]
+      }
+    }
     ,copy: {
       dist: {
         files: [
         {expand: true, cwd: 'articles',src: ['**'], dest: 'dist/articles'}
         ,{expand: true, cwd: 'crystals',src: ['**'], dest: 'dist/crystals'}
         ,{expand: true, cwd: 'fonts',src: ['**'], dest: 'dist/fonts'}
-        ,{expand: true, cwd: 'img',src: ['**'], dest: 'dist/img'}
+        // ,{expand: true, cwd: 'img',src: ['**'], dest: 'dist/img'}
           ,{src: 'js/jquery-1.11.2.min.js',dest: 'dist/js/jquery.min.js'}
           ,{src: 'js/jquery-ui.min.js',dest: 'dist/js/jquery-ui.min.js'}
           ,{src: 'js/bootstrap.min.js',dest: 'dist/js/bootstrap.min.js'}
@@ -58,7 +67,7 @@ module.exports = function(grunt) {
     // ,{src: "css/style.css",dest:'dist/css/style.css'}
     // ,{src: "css/bootstrap.css",dest:'dist/css/bootstrap.css'}
     // ,{src: "css/font-awesome.css",dest:'dist/css/font-awesome.css'}
-    // ,{src: "css/ionicons.css",dest:'dist/css/ionicons.css'}
+    ,{src: "css/ionicons.css",dest:'dist/css/ionicons.css'}
     // ,{src: "css/custom.css",dest:'dist/css/custom.css'}
 
         ]
@@ -66,22 +75,26 @@ module.exports = function(grunt) {
     }
   });
 
+grunt.loadNpmTasks('grunt-newer');
   grunt.loadNpmTasks('grunt-contrib-copy');
   // grunt.loadNpmTasks('grunt-contrib-concat');
   grunt.loadNpmTasks('grunt-contrib-uglify');
   grunt.loadNpmTasks('grunt-contrib-cssmin');
+  grunt.loadNpmTasks('grunt-image');
   // grunt.loadNpmTasks('grunt-recess');
   // grunt.loadNpmTasks('grunt-groundskeeper');
   // Default task.
+  // grunt.registerTask('minify', ['newer:uglify:all']);
   grunt.registerTask(
     'default'
     ,
     [
     // 'concat'
     // ,'recess'
-    'cssmin'
-    ,'uglify'
-    ,'copy'
+    'newer:image'
+    ,'newer:cssmin'
+    ,'newer:uglify'
+    ,'newer:copy'
     ]);
 
 };
