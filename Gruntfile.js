@@ -54,8 +54,8 @@ module.exports = function(grunt) {
     ,copy: {
       dist: {
         files: [
-        {expand: true, cwd: 'articles',src: ['**'], dest: 'dist/articles'}
-        ,{expand: true, cwd: 'crystals',src: ['**'], dest: 'dist/crystals'}
+        // {expand: true, cwd: 'articles',src: ['**'], dest: 'dist/articles'}
+        {expand: true, cwd: 'crystals',src: ['**'], dest: 'dist/crystals'}
         ,{expand: true, cwd: 'fonts',src: ['**'], dest: 'dist/fonts'}
         // ,{expand: true, cwd: 'img',src: ['**'], dest: 'dist/img'}
           ,{src: 'js/jquery-1.11.2.min.js',dest: 'dist/js/jquery.min.js'}

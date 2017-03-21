@@ -1,14 +1,4 @@
-﻿// @import url("http://www.wendymarks.com/css/navigation.css");
-// @import url("http://www.wendymarks.com/css/plugin/flexslider.css");
-// @import url("http://www.wendymarks.com/css/plugin/owl.carousel.css");
-// @import url("http://www.wendymarks.com/css/plugin/mediaelementplayer.css");
-// @import url("http://www.wendymarks.com/css/plugin/colorbox.css");
-// @import url("http://www.wendymarks.com/css/plugin/jquery.fs.tipper.css");
-
-// @import url(http://fonts.googleapis.com/css?family=Raleway:400,100,200,300,500,600,700,800,900);
-// @import url(https://fonts.googleapis.com/css?family=Lora);
-
-/*
+﻿/*
 * BASIC STYLE
   - General Style
   - Headings Style
@@ -110,6 +100,15 @@ a:hover {
     -moz-transition: all 0.25s ease 0s;
     -webkit-transition: all 0.25s ease 0s;
     -o-transition: all 0.25s ease 0s;
+}
+
+a.exalted {
+    text-decoration:underline;
+    color: #1288B9;
+}
+
+a.exalted:hover{
+    color: #0E698E;
 }
 
 .video {
@@ -1097,12 +1096,9 @@ button {
 
     .header {
         background-color: #fff;
-        /*border-bottom: 1px solid #eee;*/
         color: #323232;
-        /*padding:25px 0px;*/
         padding: 0px;
         position: relative;
-        /*top: 0;*/
         transition: all 0.25s ease 0s;
         -webkit-transition-: all 0.25s ease 0s;
         -webkit-transition: all 0.25s ease 0s;
@@ -1252,8 +1248,9 @@ button {
 
     .header .side-menu-btn > ul > li, .header .mobile-menu-icon-wraper {
         float: left;
-        padding: 35px 0 34px;
-        margin-left: 20px;
+        padding: 35px 0 0px;
+        text-align:center;
+        /* margin-left: 20px; ccm 2017.03.21 */
         transition: all 0.25s ease 0s;
         -webkit-transition: all 0.25s ease 0s;
         -moz-transition: all 0.25s ease 0s;
@@ -1261,7 +1258,7 @@ button {
     }
 
     .header.sticky .side-menu-btn > ul > li, .header.sticky .mobile-menu-icon-wraper {
-        padding: 19px 0 20px;
+        
     }
 
     .header .side-menu-btn ul li a.right-icon {
@@ -3871,7 +3868,6 @@ ul.project-detail-block, .project-detail-block ul {
 
     .youtube-player {
         position: relative;
-        // padding-bottom: 56.23%;
         padding:0;
         /* Use 75% for 4:3 videos */
         height: 0;
@@ -3927,7 +3923,6 @@ ul.project-detail-block, .project-detail-block ul {
 
     .youtube-player .play:hover {
         -webkit-filter: drop-shadow(2px 2px 5px rgba(0,0,0,1));
-        // filter: url(#drop-shadow);
         -ms-filter: "progid:DXImageTransform.Microsoft.Dropshadow(OffX=12, OffY=12, Color='#444')";
         filter: "progid:DXImageTransform.Microsoft.Dropshadow(OffX=12, OffY=12, Color='#444')";
     }
