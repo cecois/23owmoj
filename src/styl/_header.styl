@@ -4,8 +4,8 @@ body
 
 
 $bg
-	background main
-	height 100%
+	background white
+	height 12%
 	.content
 		width 95%
 		align(both)
@@ -20,14 +20,15 @@ $bg
 		color: sec
 		text-align center
 	.site-title
-		font-size rem(30px)
-		line-height 1
-		// margin-top -80px
-		display block
-		text-align:left
-		+above(cut)
-			margin-bottom 0
-			font-size rem(100px)
+		color: black
+		padding:1%
+		font-size: 4em
+		mainFont(600)
+		text-transform: uppercase
+		@media screen and (max-width: 600px) { 
+		font-size: 1.5em 
+		padding: 2px
+	}
 	.site-description
 		font-size rem(20px)
 		display block
