@@ -10,7 +10,12 @@ body
 
 a, aside, .overlay, body
     transition all .25s ease
-a.slideButton, .dosearch
+.slideButton, .dosearch
+    color black
+        &:hover
+            color lighten(black,82%)
+        &:active
+            color lighten(black,98%)
     position absolute
     display block
     width 40px
@@ -18,7 +23,7 @@ a.slideButton, .dosearch
     top 10px
     z-index 31
 .slideButton
-    right:10px
+    right:20px
 .dosearch
     right 60px
     font-size 1.5em
@@ -26,10 +31,6 @@ a.slideButton, .dosearch
     border-radius rem(3px)
     padding rem(2px) rem(3px)
     cursor pointer
-    &:hover
-        color lighten(black,82%)
-    &:active
-        color lighten(black,98%)
 .icon-menu
     cursor pointer
     padding rem(5px)

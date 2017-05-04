@@ -73,9 +73,17 @@ var jekyllCommand = (/^win/.test(process.platform)) ? 'jekyll.bat' : 'jekyll';
 /**
  * Copy Task
  */
- gulp.task('copy', function () {
+ gulp.task('copylib', function () {
  	gulp.src('src/assets/lib/*')
  	.pipe(gulp.dest('_site/assets/lib'));
+ });
+
+/**
+ * Copy Task
+ */
+ gulp.task('copyfonts', function () {
+ 	gulp.src('src/assets/fonts/*')
+ 	.pipe(gulp.dest('_site/assets/fonts'));
  });
 
 /**
@@ -103,4 +111,4 @@ var jekyllCommand = (/^win/.test(process.platform)) ? 'jekyll.bat' : 'jekyll';
  * Default task, running just `gulp` will compile the sass,
  * compile the jekyll site, launch BrowserSync & watch files.
  */
- gulp.task('default', ['js','copy','stylus', 'browser-sync', 'watch']);
+ gulp.task('default', ['js','copylib','copyfonts','stylus', 'browser-sync', 'watch']);
