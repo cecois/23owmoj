@@ -1,15 +1,15 @@
 @font-face {
   font-family: 'icomoon';
-  src:  url('fonts/icomoon.eot?hxmgfu');
-  src:  url('fonts/icomoon.eot?hxmgfu#iefix') format('embedded-opentype'),
-    url('fonts/icomoon.ttf?hxmgfu') format('truetype'),
-    url('fonts/icomoon.woff?hxmgfu') format('woff'),
-    url('fonts/icomoon.svg?hxmgfu#icomoon') format('svg');
+  src:  url('fonts/icomoon.eot?ndob51');
+  src:  url('fonts/icomoon.eot?ndob51#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?ndob51') format('truetype'),
+    url('fonts/icomoon.woff?ndob51') format('woff'),
+    url('fonts/icomoon.svg?ndob51#icomoon') format('svg');
   font-weight: normal;
   font-style: normal;
 }
 
-[class^="icon-"], [class*=" icon-"] {
+[class^="icom-"], [class*=" icom-"] {
   /* use !important to prevent issues with browser extensions that change fonts */
   font-family: 'icomoon' !important;
   speak: none;
@@ -24,7 +24,25 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
-.icon-creative-commons:before {
+.icom-menu:before {
+  content: "\e902";
+}
+.icom-search:before {
+  content: "\e901";
+}
+.icom-magnifier:before {
+  content: "\e901";
+}
+.icom-magnifying-glass:before {
+  content: "\e901";
+}
+.icom-inspect:before {
+  content: "\e901";
+}
+.icom-find:before {
+  content: "\e901";
+}
+.icom-creative-commons:before {
   content: "\e900";
 }
 
