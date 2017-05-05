@@ -1,15 +1,15 @@
 (function( $, window, undefined ) {
 
   // Menu
-  $("a#slide").mouseover(function(){
-    $("#sidebar,a#slide,#fade").addClass("slide");
+  $("#slide").mouseover(function(){
+    $("#sidebar,#slide,#fade").addClass("slide");
     $("#open").hide();
     $("#search").hide();
     $("#close").show();
   });
 
   $("#fade").click(function(){
-    $("#sidebar,a#slide,#fade").removeClass("slide");
+    $("#sidebar,#slide,#fade").removeClass("slide");
     $("#open").show();
     $("#search").show();
     $("#close").hide();

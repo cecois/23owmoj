@@ -10,7 +10,7 @@ body
 
 a, aside, .overlay, body
     transition all .25s ease
-.slideButton, .dosearch
+.doslide, .dosearch
     color black
         &:hover
             color lighten(black,82%)
@@ -22,17 +22,16 @@ a, aside, .overlay, body
     height 40px
     top 10px
     z-index 31
-.slideButton
+    font-size 1.5em
+    cursor pointer
+.doslide
     right:20px
 .dosearch
     right 60px
-    font-size 1.5em
     // background main
     border-radius rem(3px)
     padding rem(2px) rem(3px)
-    cursor pointer
 .icon-menu
-    cursor pointer
     padding rem(5px)
     border-radius rem(3px)
     background main
@@ -90,7 +89,7 @@ aside
         right 0
 
 
-a.slideButton.slide
+a.soslide.slide
     // left rem(250px)
     right rem(250px)
     pointer-events none
