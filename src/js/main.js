@@ -38,7 +38,7 @@
   });
 
   // Scroll
-  smoothScroll.init({
-    updateURL: false
-  })
-})( Zepto, window );
+//   smoothScroll.init({
+//     updateURL: true
+//   })
+// })( Zepto, window );

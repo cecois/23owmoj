@@ -65,7 +65,7 @@ var jekyllCommand = (/^win/.test(process.platform)) ? 'jekyll.bat' : 'jekyll';
  gulp.task('js', function(){
  	return gulp.src('src/js/**/*.js')
  	.pipe(plumber())
- 	.pipe(concat('main.js'))
+ 	// .pipe(concat('main.js'))
  	.pipe(uglify())
  	.pipe(gulp.dest('assets/js/'))
  });

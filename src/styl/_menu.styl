@@ -12,10 +12,6 @@ a, aside, .overlay, body
     transition all .25s ease
 .doslide, .dosearch
     color black
-        &:hover
-            color lighten(black,82%)
-        &:active
-            color lighten(black,98%)
     position absolute
     display block
     width 40px
@@ -24,11 +20,14 @@ a, aside, .overlay, body
     z-index 31
     font-size 1.5em
     cursor pointer
+    &:hover
+        color lighten(black,82%)
+    &:active
+        color lighten(black,98%)
 .doslide
     right:20px
 .dosearch
     right 60px
-    // background main
     border-radius rem(3px)
     padding rem(2px) rem(3px)
 .icon-menu
@@ -87,6 +86,7 @@ aside
     &.slide
         // left 0
         right 0
+        width 24rem
 
 
 a.soslide.slide
