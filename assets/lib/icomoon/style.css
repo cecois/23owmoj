@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'icomoon';
-  src:  url('fonts/icomoon.eot?ndob51');
-  src:  url('fonts/icomoon.eot?ndob51#iefix') format('embedded-opentype'),
-    url('fonts/icomoon.ttf?ndob51') format('truetype'),
-    url('fonts/icomoon.woff?ndob51') format('woff'),
-    url('fonts/icomoon.svg?ndob51#icomoon') format('svg');
+  src:  url('fonts/icomoon.eot?dn5ow0');
+  src:  url('fonts/icomoon.eot?dn5ow0#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?dn5ow0') format('truetype'),
+    url('fonts/icomoon.woff?dn5ow0') format('woff'),
+    url('fonts/icomoon.svg?dn5ow0#icomoon') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -41,6 +41,9 @@
 }
 .icom-find:before {
   content: "\e901";
+}
+.icom-close:before {
+  content: "\e903";
 }
 .icom-creative-commons:before {
   content: "\e900";

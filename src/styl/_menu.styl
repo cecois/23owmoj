@@ -10,7 +10,7 @@ body
 
 a, aside, .overlay, body
     transition all .25s ease
-.doslide, .dosearch
+.doslide, .dosearch, #menu_close
     color black
     position absolute
     display block
@@ -24,7 +24,10 @@ a, aside, .overlay, body
         color lighten(black,82%)
     &:active
         color lighten(black,98%)
-.doslide
+#menu_close
+    color: white
+    display none
+.doslide,#menu_close
     right:20px
 .dosearch
     right 60px
@@ -43,9 +46,6 @@ a, aside, .overlay, body
 
 .overlay
     cursor pointer
-
-#close
-    display none
 
 aside
     position fixed

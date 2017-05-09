@@ -21,7 +21,7 @@ var jekyllCommand = (/^win/.test(process.platform)) ? 'jekyll.bat' : 'jekyll';
  * Build the Jekyll Site
  */
  gulp.task('jekyll-build', function (done) {
- 	browserSync.notify(messages.jekyllBuild);
+ 	// browserSync.notify(messages.jekyllBuild);
  	return cp.spawn(jekyllCommand, ['build'], {stdio: 'inherit'})
  	.on('close', done);
  });
@@ -36,27 +36,35 @@ var jekyllCommand = (/^win/.test(process.platform)) ? 'jekyll.bat' : 'jekyll';
 /**
  * Wait for jekyll-build, then launch the Server
  */
- gulp.task('browser-sync', ['jekyll-build'], function() {
- 	browserSync({
- 		server: {
- 			baseDir: '_site'
- 		}
- 	});
- });
+ // gulp.task('browser-sync', ['jekyll-build'], function() {
+ // 	browserSync({
+ // 		server: {
+ // 			baseDir: '_site'
+ // 		}
+ // 	});
+ // });
 
 /**
  * Stylus task
  */
- gulp.task('stylus', function(){
- 	gulp.src('src/styl/main.styl')
- 	.pipe(plumber())
- 	.pipe(stylus({
- 		use:[koutoSwiss(), prefixer(), jeet(),rupture()],
- 		compress: true
- 	}))
- 	.pipe(gulp.dest('_site/assets/css/'))
- 	.pipe(browserSync.reload({stream:true}))
- 	.pipe(gulp.dest('assets/css'))
+gulp.task('stylus', function(){
+		gulp.src('src/styl/main.styl')
+		.pipe(plumber())
+		.pipe(stylus({
+			use:[koutoSwiss(), prefixer(), jeet(),rupture()],
+			compress: true
+		}))
+		.pipe(gulp.dest('_site/assets/css/'))
+		.pipe(browserSync.reload({stream:true}))
+		.pipe(gulp.dest('assets/css'))
+});
+
+/**
+ * Copy Task
+ */
+ gulp.task('copyapp', function () {
+ 	gulp.src('src/js/app.js')
+ 	.pipe(gulp.dest('assets/js/'));
  });
 
 /**
@@ -65,26 +73,25 @@ var jekyllCommand = (/^win/.test(process.platform)) ? 'jekyll.bat' : 'jekyll';
  gulp.task('js', function(){
  	return gulp.src('src/js/**/*.js')
  	.pipe(plumber())
- 	// .pipe(concat('main.js'))
  	.pipe(uglify())
  	.pipe(gulp.dest('assets/js/'))
  });
 
 /**
  * Copy Task
- */
  gulp.task('copylib', function () {
  	gulp.src('src/assets/lib/*')
- 	.pipe(gulp.dest('_site/assets/lib'));
+ 	.pipe(gulp.dest('assets/lib'));
  });
+ */
 
 /**
  * Copy Task
- */
  gulp.task('copyfonts', function () {
- 	gulp.src('src/assets/fonts/*')
- 	.pipe(gulp.dest('_site/assets/fonts'));
+ 	gulp.src('assets/fonts/*')
+ 	.pipe(gulp.dest('assets/fonts'));
  });
+ */
 
 /**
  * Imagemin Task
@@ -111,4 +118,6 @@ var jekyllCommand = (/^win/.test(process.platform)) ? 'jekyll.bat' : 'jekyll';
  * Default task, running just `gulp` will compile the sass,
  * compile the jekyll site, launch BrowserSync & watch files.
  */
- gulp.task('default', ['js','copylib','copyfonts','stylus', 'browser-sync', 'watch']);
+ gulp.task('default', ['js','stylus'
+ 	// , 'browser-sync'
+ 	, 'watch']);

@@ -1,9 +1,9 @@
 # Site settings
 title: A blog about lorem ipsum dolor sit amet
 description: A blog about lorem ipsum dolor sit amet
-# baseurl: "/will-jekyll-template" # the subpath of your site, e.g. /blog
+baseurl: "/marks" # the subpath of your site, e.g. /blog
 # url: "https://willianjusten.com.br" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
-url: "http://localhost:3000"
+url: "http://localhost"
 
 # User settings
 username: Wendy Marks

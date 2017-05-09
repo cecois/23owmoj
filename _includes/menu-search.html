@@ -8,6 +8,7 @@
 
 <div id="fade" class="overlay"></div>
 <div id="slide" class="doslide icom-menu"></div> <!-- ./  -->
+<div id="menu_close" class="icom-close"></div> <!-- ./  -->
 <!-- <a id="slide" class="slideButton fade">
   <svg id="open" class="icon-menu"><use xlink:href="#icon-menu"></use></svg>
   <svg id="close" class="icon-menu"><use xlink:href="#icon-close"></use></svg>
@@ -16,10 +17,10 @@
   <nav id="navigation">
     <h2>MENU</h2>
     <ul>
-      <li>
+<!--       <li>
         <a href="/">Home</a>
-      </li>
-      {% for p in site.posts %}
+      </li> -->
+      {% for p in site.posts reversed %}
       <li>
         <a href="{{ p.url }}">{{ p.title }}</a>
       </li>
@@ -38,6 +39,7 @@
 </nav>
 </aside>
 
+  <!-- 
 <div id="search" class="dosearch icom-search">
-  <!-- <svg class="icon-menu icom-search"><use xlink:href="#icom-search"></use></svg> -->
 </div>
+  -->

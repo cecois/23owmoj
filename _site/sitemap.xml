@@ -2,11 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	
 	  <url>
-		<loc>http://localhost:3000/welcome-to-jekyll/</loc>
+		<loc>http://localhost/marks/treatment-philosophy/</loc>
 	  </url>
 	
 	  <url>
-		<loc>http://localhost:3000/treatment-philosophy/</loc>
+		<loc>http://localhost/marks/home/</loc>
 	  </url>
 	
 </urlset>
