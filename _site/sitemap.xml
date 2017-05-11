@@ -2,11 +2,47 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	
 	  <url>
-		<loc>http://localhost/marks/treatment-philosophy/</loc>
+		<loc>http://localhost/marks/crystal-images/</loc>
 	  </url>
 	
 	  <url>
-		<loc>http://localhost/marks/home/</loc>
+		<loc>http://localhost/marks/fee-schedule/</loc>
+	  </url>
+	
+	  <url>
+		<loc>http://localhost/marks/your-souls-companion/</loc>
+	  </url>
+	
+	  <url>
+		<loc>http://localhost/marks/partnership/</loc>
+	  </url>
+	
+	  <url>
+		<loc>http://localhost/marks/related-resources/</loc>
+	  </url>
+	
+	  <url>
+		<loc>http://localhost/marks/client-testimonials/</loc>
+	  </url>
+	
+	  <url>
+		<loc>http://localhost/marks/speaker-information/</loc>
+	  </url>
+	
+	  <url>
+		<loc>http://localhost/marks/articles-and-interviews/</loc>
+	  </url>
+	
+	  <url>
+		<loc>http://localhost/marks/services/</loc>
+	  </url>
+	
+	  <url>
+		<loc>http://localhost/marks/faq/</loc>
+	  </url>
+	
+	  <url>
+		<loc>http://localhost/marks/treatment-philosophy/</loc>
 	  </url>
 	
 </urlset>

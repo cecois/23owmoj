@@ -1,19 +1,46 @@
-const UPNDOWN = require('upndown'),UND = new UPNDOWN(),FS=require('fs')
+const UPNDOWN = require('upndown'),UND = new UPNDOWN(),FS=require('fs'),__=require('underscore')
 ;
 
+var fi =
+["articles.html"
+,"crystals.html"
+,"faq.html"
+,"fees.html"
+,"index.html"
+,"partnership.html"
+,"philosophy.html"
+,"resources.html"
+,"services.html"
+,"souls-companion.html"
+,"speaker.html"
+,"testimonials.html"
+]
+
+__.each(fi,(f)=>{
+	var ff = "./raws/"+f
+	var fo = "./raws/"+f.split(".html")[0]+".md"
 
 
-// First I want to read the file
-FS.readFile('./raws/index.html', function read(err, data) {
-    if (err) {
-        throw err;
-    }
-    content = data;
+	FS.readFile(ff,function read(err,data){if (err) {throw err;}content = data;
 
 
-UND.convert(content, function(err, markdown) {
-    if(err){ console.err(err);}
-    else { console.log(markdown); }
-});
+		UND.convert(content, function(err, markdown) {
+			if(err){ console.err(err);}
+			else {
 
-});
+
+    	// console.log(markdown);
+    	FS.writeFile(fo, markdown, function(err) {
+    		if(err) {
+    			return console.log(err);
+    		}
+
+    	});
+
+
+    } //else.err
+}); //convert
+
+}); //readfile.err
+
+}) //each

@@ -5,7 +5,7 @@ date: 2015-08-03 03:32:44
 image: '/assets/img/'
 description: 'First steps to use this template'
 tags:
-- philosophy 
+- philosophy
 - approach
 categories:
 - I love Jekyll
@@ -13,22 +13,22 @@ twitter_text: 'How to install and use this template'
 ---
 
 
-###   
+###
 Treatment Philosophy
- 
- ![Freedom #2](https://farm4.staticflickr.com/3475/5711616447_a06f45eaac_b.jpg) 
+
+![Freedom #2](https://farm4.staticflickr.com/3475/5711616447_a06f45eaac_b.jpg)
 
 > "As a healer, I strive to work with individuals in a way that promotes a peaceful and healthy planet."
 
 Wendy's philosophy engenders positive healing to counteract the conflict and pain that washes over us in our daily lives. While watching negative images on the news, the many systems of your body are still working in harmony; your heart beats in time, your digestive system assimilates what you feed it, and your mind processes information. And yet, you are being affected by the stressful images being presented.
 
-![](img/singlebearprint.png) 
+![](img/singlebearprint.png)
 
 ## How do we keep the negative influences at bay, while simultaneously enjoying our life on this amazing blue planet?
-![](img/wolf3.png) 
-![](img/jumbo1.png)  
+![](img/wolf3.png)
+![](img/jumbo1.png)
 **
-Strive to remain conscious of the miracles in our daily lives - our children"s laughter, our lover"s touch, our parents" wisdom, our friends" support.
+Strive to remain conscious of the miracles in our daily lives - our children's laughter, our lover's touch, our parents' wisdom, our friends' support.
 **
 Realize that the choices we make in life can ripple forward and provide the world with positive growth. Each action does not exist separately from all others, but is part of the symphony of life.
 **
