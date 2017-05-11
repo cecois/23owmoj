@@ -8,11 +8,10 @@ tags:
 - jekyll
 - web
 categories:
-- splash
+- Home
 ---
 
-###
-Medical Intuitive, Shamanic Studies, Integrative Therapy
+### Medical Intuitive, Shamanic Studies, Integrative Therapy
 
 #### M.Ed., C.A.S., C.S.S., Fellow APA, Diplomate AAIM, Member ACEP
 
