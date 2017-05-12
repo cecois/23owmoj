@@ -15,25 +15,24 @@ a
   src: local('Open Sans Extrabold'), local('OpenSans-Extrabold'), url(https://fonts.gstatic.com/s/opensans/v10/EInbV5DfGHOiMmvb1Xr-hiYtBUPDK3WL7KRKS_3q7OE.woff2) format('woff2');
 }
 
-@font-face {
-  font-family: 'Raleway';
-  src: local('Raleway-Black'), url('assets/fonts/Raleway/Raleway-Black.ttf') format('truetype')
-  font-weight: normal;
-  font-style: normal;
-}
 
 mainFont(weight = 800)
     font-family 'Raleway', sans-serif
     font-weight weight
     font-style normal
 
-bodyFont(weight = 100)
-    font-family 'Lora', sans-serif
+bodyFont(weight = 200)
+    // font-family 'Lora', sans-serif
     font-weight weight
     font-style normal
+    font-size 1.6em
+    line-height 1.3
 
 h1,h2,h3,h4
     mainFont()
+    
 
 body
-    bodyFont()
+    bodyFont(400)
+    ::selection {
+  background: black;}
