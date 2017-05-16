@@ -3,14 +3,15 @@ var POTRACE = require('potrace')
 ,__ = require('underscore')
 ;
 
-var fin = "/Users/ccmiller/git/23owmoj/img/wolf3.png"
+var fin = "/Users/ccmiller/git/23owmoj/img/duckprints.png"
 // var fnn = 'logo-'+__.last(fin.split("/")).split(".")[0]+".svg"
-var fnn = 'logo-wolf-prowl.svg'
-var fout = '/Users/ccmiller/git/marks2/assets/img/svg/'+fnn
+var fnn = 'duckprints.svg'
+var fout = '/tmp/'+fnn
 
-// console.log("fout",fout);
- 
-POTRACE.trace(fin, function(err, svg) {
+ var params = {
+  threshold: 220
+};
+POTRACE.trace(fin, params, function(err, svg) {
   if (err) throw err;
   fs.writeFileSync(fout, svg);
 });

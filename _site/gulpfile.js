@@ -31,19 +31,19 @@ var jekyllCommand = 'jekyll';
  * Rebuild Jekyll & do page reload
  */
  gulp.task('jekyll-rebuild', ['jekyll-build'], function () {
- 	// browserSync.reload();
+ 	browserSync.reload();
  });
 
 /**
  * Wait for jekyll-build, then launch the Server
  */
- // gulp.task('browser-sync', ['jekyll-build'], function() {
- // 	browserSync({
- // 		server: {
- // 			baseDir: '_site'
- // 		}
- // 	});
- // });
+ gulp.task('browser-sync', ['jekyll-build'], function() {
+ 	browserSync({
+ 		server: {
+ 			baseDir: '_site'
+ 		}
+ 	});
+ });
 
 /**
  * Stylus task
@@ -121,5 +121,5 @@ gulp.task('stylus', function(){
  */
  gulp.task('default', ['js','stylus'
  	,'imagemin'
- 	// , 'browser-sync'
+ 	, 'browser-sync'
  	, 'watch']);

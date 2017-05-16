@@ -17,10 +17,10 @@
   <nav id="navigation">
     <h2>MENU</h2>
     <ul>
-<!--       <li>
+      <li>
         <a href="/">Home</a>
-      </li> -->
-      {% for p in site.posts reversed %}
+      </li>
+      {% for p in site.categories.menud reversed %}
       <li>
         <a href="{{ p.url }}">{{ p.title }}</a>
       </li>

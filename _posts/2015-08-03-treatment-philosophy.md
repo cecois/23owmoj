@@ -8,7 +8,7 @@ tags:
 - philosophy
 - approach
 categories:
-- I love Jekyll
+- menud
 twitter_text: 'How to install and use this template'
 ---
 

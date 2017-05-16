@@ -1,20 +1,20 @@
 const UPNDOWN = require('upndown'),UND = new UPNDOWN(),FS=require('fs'),__=require('underscore')
 ;
 
-var fi =
-["articles.html"
-,"crystals.html"
-,"faq.html"
-,"fees.html"
-,"index.html"
-,"partnership.html"
-,"philosophy.html"
-,"resources.html"
-,"services.html"
-,"souls-companion.html"
-,"speaker.html"
-,"testimonials.html"
-]
+var fi = ["whatisa.html"]
+// ["articles.html"
+// ,"crystals.html"
+// ,"faq.html"
+// ,"fees.html"
+// ,"index.html"
+// ,"partnership.html"
+// ,"philosophy.html"
+// ,"resources.html"
+// ,"services.html"
+// ,"souls-companion.html"
+// ,"speaker.html"
+// ,"testimonials.html"
+// ]
 
 __.each(fi,(f)=>{
 	var ff = "./raws/"+f

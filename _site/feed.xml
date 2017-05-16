@@ -3,25 +3,25 @@
   <channel>
     <title>A blog about lorem ipsum dolor sit amet</title>
     <description>A blog about lorem ipsum dolor sit amet</description>
-    <link>http://localhost/marks/</link>
-    <atom:link href="http://localhost/marks/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 12 May 2017 07:25:13 -0400</pubDate>
-    <lastBuildDate>Fri, 12 May 2017 07:25:13 -0400</lastBuildDate>
-    <generator>Jekyll v3.1.6</generator>
+    <link>http://localhost:3000/</link>
+    <atom:link href="http://localhost:3000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 15 May 2017 07:51:39 -0400</pubDate>
+    <lastBuildDate>Mon, 15 May 2017 07:51:39 -0400</lastBuildDate>
+    <generator>Jekyll v3.1.3</generator>
     
       <item>
         <title>Crystal Images</title>
         <description>&lt;h2 id=&quot;section&quot;&gt;#&lt;/h2&gt; &lt;p&gt;Crystal Images &lt;a href=&quot;crystals/crystal01.jpg&quot;&gt;&lt;img src=&quot;crystals/crystal01.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/p&gt; &lt;blockquote&gt; &lt;p&gt;&lt;a href=&quot;http://www.mcgill.ca/&quot;&gt;Crystal images provided by: The Image Centre, Department of Biology, McGill University, Montreal Photographer: Robert Lamarche &lt;/a&gt;&lt;/p&gt; &lt;/blockquote&gt; &lt;p&gt;&lt;img src=&quot;img/jumbo1.png&quot; alt=&quot;&quot; /&gt; &lt;a href=&quot;crystals/crystal02.jpg&quot;&gt;&lt;img src=&quot;crystals/crystal02.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;crystals/crystal03.jpg&quot;&gt;&lt;img src=&quot;crystals/crystal03.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;crystals/crystal04.jpg&quot;&gt;&lt;img src=&quot;crystals/crystal04.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;crystals/crystal05.jpg&quot;&gt;&lt;img src=&quot;crystals/crystal05.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;crystals/crystal06.jpg&quot;&gt;&lt;img src=&quot;crystals/crystal06.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;crystals/crystal07.jpg&quot;&gt;&lt;img src=&quot;crystals/crystal07.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;crystals/crystal08.jpg&quot;&gt;&lt;img src=&quot;crystals/crystal08.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;crystals/crystal09.jpg&quot;&gt;&lt;img src=&quot;crystals/crystal09.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;crystals/crystal10.jpg&quot;&gt;&lt;img src=&quot;crystals/crystal10.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;crystals/crystal11.jpg&quot;&gt;&lt;img src=&quot;crystals/crystal11.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;crystals/crystal12.jpg&quot;&gt;&lt;img src=&quot;crystals/crystal12.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;crystals/crystal13.jpg&quot;&gt;&lt;img src=&quot;crystals/crystal13.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;crystals/crystal14.jpg&quot;&gt;&lt;img src=&quot;crystals/crystal14.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;crystals/crystal15.jpg&quot;&gt;&lt;img src=&quot;crystals/crystal15.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;crystals/crystal16.jpg&quot;&gt;&lt;img src=&quot;crystals/crystal16.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;crystals/crystal17.jpg&quot;&gt;&lt;img src=&quot;crystals/crystal17.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;img src=&quot;img/jumbo2.png&quot; alt=&quot;&quot;...</description>
         <pubDate>Wed, 12 Aug 2015 23:32:44 -0400</pubDate>
-        <link>http://localhost/marks/crystal-images/</link>
-        <guid isPermaLink="true">http://localhost/marks/crystal-images/</guid>
+        <link>http://localhost:3000/crystal-images/</link>
+        <guid isPermaLink="true">http://localhost:3000/crystal-images/</guid>
         
         <category>philosophy</category>
         
         <category>approach</category>
         
         
-        <category>I love Jekyll</category>
+        <category>menud</category>
         
       </item>
     
@@ -29,15 +29,15 @@
         <title>Fee Schedule</title>
         <description>&lt;h1 id=&quot;section&quot;&gt;#&lt;/h1&gt; &lt;p&gt;Fee Schedule&lt;/p&gt; &lt;p&gt;&lt;img src=&quot;img/jumbo1.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt; &lt;p&gt;Wendy is available for consultation by appointment either in person or by phone. To ensure the best possible service for you, an initial telephone intake interview is required.&lt;/p&gt; &lt;p&gt;Part of Wendy’s mission is to educate people to the alternative and augmentative therapies available. If you have questions about these therapies, please call Wendy for a complimentary 15 minute discussion. No question is too simple or too complex.&lt;/p&gt; &lt;p&gt;Business Hours: Weekdays and evenings by appointment. &lt;strong&gt;Medical Intuition Services:&lt;/strong&gt; * Initial 90 minute body scan - $350 This includes a FREE 15-minute follow-up telephone...</description>
         <pubDate>Tue, 11 Aug 2015 23:32:44 -0400</pubDate>
-        <link>http://localhost/marks/fee-schedule/</link>
-        <guid isPermaLink="true">http://localhost/marks/fee-schedule/</guid>
+        <link>http://localhost:3000/fee-schedule/</link>
+        <guid isPermaLink="true">http://localhost:3000/fee-schedule/</guid>
         
         <category>philosophy</category>
         
         <category>approach</category>
         
         
-        <category>I love Jekyll</category>
+        <category>menud</category>
         
       </item>
     
@@ -45,15 +45,15 @@
         <title>Your Soul&#39;s Companion</title>
         <description>&lt;h2 id=&quot;section&quot;&gt;#&lt;/h2&gt; &lt;p&gt;Your Soul’s Companion&lt;/p&gt; &lt;blockquote&gt; &lt;p&gt;Are you spiritually gifted? If you have heard that little voice in your head and wondered, “Where do I begin?” this book is for you.&lt;/p&gt; &lt;/blockquote&gt; &lt;p&gt;If you are seeking to discover your own spiritual path, Your Soul”s Companion is a practical guide to the spiritual tools you need to thrive in our challenging times. &lt;img src=&quot;img/jumbo1.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt; &lt;p&gt;Woven into the informative text are simple exercises and many personal stories from Wendy Marks” fascinating practice as a spiritual teacher and medical intuitive, and from her personal life. You”ll find straightforward explanations of such...</description>
         <pubDate>Mon, 10 Aug 2015 23:32:44 -0400</pubDate>
-        <link>http://localhost/marks/your-souls-companion/</link>
-        <guid isPermaLink="true">http://localhost/marks/your-souls-companion/</guid>
+        <link>http://localhost:3000/your-souls-companion/</link>
+        <guid isPermaLink="true">http://localhost:3000/your-souls-companion/</guid>
         
         <category>philosophy</category>
         
         <category>approach</category>
         
         
-        <category>I love Jekyll</category>
+        <category>menud</category>
         
       </item>
     
@@ -61,15 +61,15 @@
         <title>Partnership for Advancing Tomorrow&#39;s Healthcare</title>
         <description>&lt;h2 id=&quot;section&quot;&gt;#&lt;/h2&gt; &lt;p&gt;Partnership for Advancing Tomorrow’s Healthcare &lt;img src=&quot;https://c1.staticflickr.com/6/5579/15007676965_271fab038c_b.jpg&quot; alt=&quot;THE PRETTY WAY&quot; /&gt;&lt;/p&gt; &lt;blockquote&gt; &lt;p&gt;The Partnership for Advancing Tomorrow’s Healthcare (PATH) is a planned center for holistic integrative treatment in the greater Boston area. The goal is to create a patient-centered facility focused on the whole person. Wellness of mind, body, and spirit will be available in one place, with each person able to follow their own path to wellness &lt;img src=&quot;img/jumbo1.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt; &lt;/blockquote&gt; &lt;p&gt;Many types of practitioners will gather at PATH to focus on an individual’s needs, providing an alternative to the scattered approach to wellness and care...</description>
         <pubDate>Sun, 09 Aug 2015 23:32:44 -0400</pubDate>
-        <link>http://localhost/marks/partnership/</link>
-        <guid isPermaLink="true">http://localhost/marks/partnership/</guid>
+        <link>http://localhost:3000/partnership/</link>
+        <guid isPermaLink="true">http://localhost:3000/partnership/</guid>
         
         <category>philosophy</category>
         
         <category>approach</category>
         
         
-        <category>I love Jekyll</category>
+        <category>menud</category>
         
       </item>
     
@@ -77,15 +77,15 @@
         <title>Related Resources</title>
         <description>&lt;h2 id=&quot;section&quot;&gt;#&lt;/h2&gt; &lt;p&gt;Related Resources &lt;img src=&quot;https://farm8.staticflickr.com/7772/17640811894_1a44e91beb_z.jpg&quot; alt=&quot;Shadows of the Setting Sun&quot; /&gt;&lt;/p&gt; &lt;blockquote&gt; &lt;p&gt;Select any of the links below to visit other sites with information on a holistic approach to mind, body, and spirit wellness.&lt;/p&gt; &lt;/blockquote&gt; &lt;p&gt;&lt;a href=&quot;http://www.energypsych.org/&quot;&gt;&lt;img src=&quot;img/acep.png&quot; alt=&quot;Energy Psych&quot; /&gt;&lt;/a&gt;&lt;/p&gt; &lt;p&gt;&lt;a href=&quot;http://www.awakeningpeople.com/&quot;&gt; ## Awakening People &lt;/a&gt; &lt;a href=&quot;http://www.blessedherbs.com/&quot;&gt;&lt;img src=&quot;http://www.blessedherbs.com/skin/frontend/blessedherbs/default/images/logo.png&quot; alt=&quot;Blessed Herbs&quot; /&gt;&lt;/a&gt;&lt;/p&gt; &lt;p&gt;&lt;a href=&quot;http://www.byregion.net/index.shtml&quot;&gt;&lt;img src=&quot;http://www.byregion.net/images/header/logo.gif&quot; alt=&quot;By Region&quot; /&gt;&lt;/a&gt;&lt;/p&gt; &lt;p&gt;&lt;a href=&quot;http://www.crystal-energy-images.com/&quot;&gt; ## Crystal Energy Images &lt;/a&gt;&lt;/p&gt; &lt;p&gt;&lt;a href=&quot;http://www.thefamilyoflight.com&quot;&gt;&lt;img src=&quot;http://www.thefamilyoflight.com/images/header1.jpg&quot; alt=&quot;The Family of Light&quot; /&gt;&lt;/a&gt; &lt;a href=&quot;http://www.americanassociationofmediumsandpsychics.net/wendy-marks-medical-intuitive.html&quot;&gt;&lt;img src=&quot;http://www.foreverinthelight.com/wp-content/uploads/2014/05/AmerAssnPsychicsLogo.gif&quot; alt=&quot;American Association of Psychics&quot; /&gt;&lt;/a&gt;&lt;/p&gt; &lt;p&gt;&lt;a href=&quot;http://www.holisticpractitioner.net&quot; title=&quot;As Seen On Holistic Practitioner .net&quot;&gt;&lt;img src=&quot;http://www.holisticpractitioner.net/images/logo.gif&quot; alt=&quot;Holistic Practitioners&quot; /&gt;&lt;/a&gt; &lt;a href=&quot;http://www.medical-intuitives.net/&quot;&gt;&lt;img src=&quot;http://www.medical-intuitives.net/images/toplogo.gif&quot; alt=&quot;International Association...</description>
         <pubDate>Sat, 08 Aug 2015 23:32:44 -0400</pubDate>
-        <link>http://localhost/marks/related-resources/</link>
-        <guid isPermaLink="true">http://localhost/marks/related-resources/</guid>
+        <link>http://localhost:3000/related-resources/</link>
+        <guid isPermaLink="true">http://localhost:3000/related-resources/</guid>
         
         <category>philosophy</category>
         
         <category>approach</category>
         
         
-        <category>I love Jekyll</category>
+        <category>menud</category>
         
       </item>
     
@@ -93,15 +93,15 @@
         <title>Client Testimonials</title>
         <description>&lt;h2 id=&quot;section&quot;&gt;#&lt;/h2&gt; &lt;p&gt;Client Testimonials&lt;/p&gt; &lt;blockquote&gt; &lt;p&gt;Shown here are just some of the many kind words Wendy’s clients have expressed over the years.&lt;/p&gt; &lt;/blockquote&gt; &lt;p&gt;&lt;img src=&quot;img/jumbo1.png&quot; alt=&quot;&quot; /&gt; &amp;gt; “Several years ago my thyroid swelled up and I could tell that the doctor thought it was cancer. This is how I found Wendy and her truly amazing gift. I was blown away when Wendy could look into my body and tell me exactly what was going on. &amp;gt; &amp;gt; Even though I didn’t believe it was cancer, hearing Wendy say ‘It doesn’t look like cancer but it’s something that you need...</description>
         <pubDate>Fri, 07 Aug 2015 23:32:44 -0400</pubDate>
-        <link>http://localhost/marks/client-testimonials/</link>
-        <guid isPermaLink="true">http://localhost/marks/client-testimonials/</guid>
+        <link>http://localhost:3000/client-testimonials/</link>
+        <guid isPermaLink="true">http://localhost:3000/client-testimonials/</guid>
         
         <category>philosophy</category>
         
         <category>approach</category>
         
         
-        <category>I love Jekyll</category>
+        <category>menud</category>
         
       </item>
     
@@ -109,15 +109,15 @@
         <title>Speaker Information</title>
         <description>&lt;h2 id=&quot;section&quot;&gt;#&lt;/h2&gt; &lt;p&gt;Speaker Information&lt;/p&gt; &lt;p&gt;&lt;img src=&quot;https://farm8.staticflickr.com/7739/18170940809_c112377698_b.jpg&quot; alt=&quot;Audience at IgniteCardiff #23&quot; /&gt;&lt;/p&gt; &lt;blockquote&gt; &lt;p&gt;With a broad range of knowledge in traditional medicine and non-traditional therapies, Wendy is a sought-after speaker at conferences, expos, universities, health centers and informal meetings.&lt;/p&gt; &lt;/blockquote&gt; &lt;p&gt;The interaction between her and the audience, and the opportunity for learning, never fails to provide a sense of exhilaration.&lt;/p&gt; &lt;p&gt;Wendy also writes extensively on numerous topics, and can provide your publication with a creative and innovative perspective.&lt;/p&gt; &lt;p&gt;Please call Wendy to discuss how she can educate, enlighten and provide your group with a vast range of information on traditional and...</description>
         <pubDate>Thu, 06 Aug 2015 23:32:44 -0400</pubDate>
-        <link>http://localhost/marks/speaker-information/</link>
-        <guid isPermaLink="true">http://localhost/marks/speaker-information/</guid>
+        <link>http://localhost:3000/speaker-information/</link>
+        <guid isPermaLink="true">http://localhost:3000/speaker-information/</guid>
         
         <category>philosophy</category>
         
         <category>approach</category>
         
         
-        <category>I love Jekyll</category>
+        <category>menud</category>
         
       </item>
     
@@ -125,15 +125,15 @@
         <title>Articles and Interviews</title>
         <description>&lt;h2 id=&quot;section&quot;&gt;#&lt;/h2&gt; &lt;p&gt;Articles and Interviews &lt;img src=&quot;https://farm9.staticflickr.com/8502/8324558346_fdc5294cb7_o.jpg&quot; alt=&quot;Yin Yang&quot; /&gt; ### Radio Interviews&lt;/p&gt; &lt;p&gt;&lt;img src=&quot;img/duckprints.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt; &lt;p&gt;&lt;a href=&quot;http://www.blogtalkradio.com/being-with-ron-ash/2015/02/10/helping-you-to-improve-your-physical-spiritual-and-mental-health&quot;&gt;“Being with Ron Ash” Radio Interview - February 2015&lt;/a&gt; &lt;a href=&quot;index.html#collapseThirty&quot;&gt; DreamVision 7 Radio Interview - June 2014 &lt;/a&gt; &lt;a href=&quot;index.html#collapseThirtyOne&quot;&gt; “Being with Ron Ash” Radio Interview -November 2010 &lt;/a&gt; &lt;a href=&quot;index.html#collapseThirtyTwo&quot;&gt; Dreamvisions 7 Radio Interview - December 2008 &lt;/a&gt;&lt;/p&gt; &lt;h3 id=&quot;articles&quot;&gt;Articles&lt;/h3&gt; &lt;p&gt;&lt;img src=&quot;img/jumbo1.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt; &lt;p&gt;[ Article - April 2017&lt;/p&gt; &lt;p&gt;Care for Your Feet ](articles/Care-for-Your-Feet-April-2017.pdf)[ Article - January 2017&lt;/p&gt; &lt;p&gt;Cardiovascular Workout ](articles/Cardiovascular Workout - January 23 2017.pdf)[ Article - December 2016&lt;/p&gt; &lt;p&gt;Holiday Happiness ](articles/Holiday Happiness - December 2016.pdf)[ Article - November...</description>
         <pubDate>Wed, 05 Aug 2015 23:32:44 -0400</pubDate>
-        <link>http://localhost/marks/articles-and-interviews/</link>
-        <guid isPermaLink="true">http://localhost/marks/articles-and-interviews/</guid>
+        <link>http://localhost:3000/articles-and-interviews/</link>
+        <guid isPermaLink="true">http://localhost:3000/articles-and-interviews/</guid>
         
         <category>philosophy</category>
         
         <category>approach</category>
         
         
-        <category>I love Jekyll</category>
+        <category>menud</category>
         
       </item>
     
@@ -141,15 +141,15 @@
         <title>Services</title>
         <description>&lt;h2 id=&quot;section&quot;&gt;#&lt;/h2&gt; &lt;p&gt;Services Offered&lt;/p&gt; &lt;p&gt;&lt;img src=&quot;img/approach.jpg&quot; alt=&quot;Soul&quot; /&gt;&lt;/p&gt; &lt;blockquote&gt; &lt;p&gt;Wendy”s extensive abilities provide her with the skills to conduct medical intuitive body scans, integrative psychotherapy, energy healing, soul retrieval and energy medicine, and Shamanic studies sessions to improve your physical, mental and spiritual health.&lt;/p&gt; &lt;/blockquote&gt; &lt;p&gt;&lt;img src=&quot;img/jumbo1.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt; &lt;p&gt;Medical Intuitive Body Scan&lt;/p&gt; &lt;p&gt;Wendy can intuitively see into your body, much like a CT scan, to identify and address physical health concerns including chronic conditions often undiagnosed by conventional methods. This is a ninety minute session of viewing and assessing health concerns and strengths including a head-to-toe mental scan of...</description>
         <pubDate>Tue, 04 Aug 2015 23:32:44 -0400</pubDate>
-        <link>http://localhost/marks/services/</link>
-        <guid isPermaLink="true">http://localhost/marks/services/</guid>
+        <link>http://localhost:3000/services/</link>
+        <guid isPermaLink="true">http://localhost:3000/services/</guid>
         
         <category>philosophy</category>
         
         <category>approach</category>
         
         
-        <category>I love Jekyll</category>
+        <category>menud</category>
         
       </item>
     
@@ -157,15 +157,15 @@
         <title>FAQ</title>
         <description>&lt;h2 id=&quot;section&quot;&gt;#&lt;/h2&gt; &lt;p&gt;Treatment Approach&lt;/p&gt; &lt;p&gt;&lt;img src=&quot;img/lotus.jpg&quot; alt=&quot;Lotus Flower&quot; /&gt;&lt;/p&gt; &lt;h2 id=&quot;frequently-asked-questions&quot;&gt;Frequently Asked QUestions&lt;/h2&gt; &lt;h3 id=&quot;click-on-a-question-to-see-the-answer&quot;&gt;Click on a Question to see the answer&lt;/h3&gt; &lt;p&gt;&lt;a href=&quot;index.html#collapseOne&quot;&gt; You ask all clients to do an initial telephone intake? Why is that? &lt;/a&gt; My goal is to make our time together as beneficial as possible. One way to do that is to be efficient; I don”t want you to feel that we are wasting any time going over basic information when we first meet. So I ask you to speak with my assistant first so she can gather things like past medical history, a list...</description>
         <pubDate>Mon, 03 Aug 2015 23:32:44 -0400</pubDate>
-        <link>http://localhost/marks/faq/</link>
-        <guid isPermaLink="true">http://localhost/marks/faq/</guid>
+        <link>http://localhost:3000/faq/</link>
+        <guid isPermaLink="true">http://localhost:3000/faq/</guid>
         
         <category>philosophy</category>
         
         <category>approach</category>
         
         
-        <category>I love Jekyll</category>
+        <category>menud</category>
         
       </item>
     
