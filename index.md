@@ -26,7 +26,9 @@ categories:
 <div style="margin-top:15px;"><a href="http://visitor.r20.constantcontact.com/d.jsp?llr=ourelesab&amp;p=oi&amp;m=1118984881806&amp;sit=58jkkwfjb&amp;f=ce6451c5-4206-480f-900c-751ed3eae805" class="btn btn-lg btn-info">Sign Up for Wendy's Email Blog</a></div>
     </div>
 
-<div class='col-xs-12 col-md-12 col-lg-12'><div class="col-xs-0 col-sm-0 col-md-0 col-lg-0"></div><div style="min-height:315px;" class="youtube-player col-xs-12 col-sm-12 col-md-12 col-lg-12" data-id="MJCESPadHK8"></div><div class="col-xs-0 col-sm-0 col-md-0 col-lg-0"></div>
+<div class='col-xs-12 col-md-12 col-lg-12'>
+    <div class="col-xs-0 col-sm-0 col-md-0 col-lg-0"></div><div style="min-height:315px;" class="youtube-player col-xs-12 col-sm-12 col-md-12 col-lg-12" data-id="MJCESPadHK8"></div>
+    <div class="col-xs-0 col-sm-0 col-md-0 col-lg-0"></div>
 </div>
 &nbsp;
 
@@ -73,3 +75,36 @@ Wendy has extensive knowledge in both traditional medicine and non-traditional t
 See Wendy's article <a href="/what-is-a/">"What is a Medical Intuitive"</a> for more information about her abilities.
 </div>
 <!-- ./post-prim -->
+<div class="post-alt">
+    <div class='divider col-xs-12 col-md-12 col-lg-12'>
+        <span class="icom-logo-fleur"></span>
+    </div>
+    <div class='col-xs-12 col-md-12 col-lg-12 marks-copy'>
+xxxxx
+<div class="col-sm-6 col-md-6 col-lg-6">
+<br/><br/>
+
+    <div class="col-sm-6 col-md-6 col-lg-6"></div>
+    <div class="col-sm-6 col-md-6 col-lg-6">
+<ul><li style="text-align:left;">c1</li>
+<li style="text-align:left;">c2</li>
+<li style="text-align:left;">c3</li></ul>
+    </div>
+</div>
+<div class="col-sm-6 col-md-6 col-lg-6">
+<br/><br/>
+    <div class="col-sm-6 col-md-6 col-lg-6"><ul><li style="text-align:left;">li0</li>
+<li style="text-align:left;">li1</li>
+<li style="text-align:left;">li2 </li></ul></div>
+    <div class="col-sm-6 col-md-6 col-lg-6"></div>
+    </div>
+    </div> <!-- .marks-copy -->
+        <div class="col-sm-12 col-md-12 col-lg-12 marks-copy">
+        <br/><br/>
+        copy
+    </div><!-- .marks-copy -->
+        <div class='divider divider-down col-xs-12 col-md-12 col-lg-12'>
+        <span class="icom-logo-fleur"></span>
+    </div>
+    &nbsp;
+</div>
