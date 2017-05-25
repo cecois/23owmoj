@@ -26,22 +26,22 @@ Wendy's philosophy engenders positive healing to counteract the conflict and pai
 ### How do we keep the negative influences at bay, while simultaneously enjoying our life on this amazing blue planet?
 
 
-<div class="col-xs-12 col-md-12 col-md-12 col-lg-12">
+<div style="padding-top:15px;" class="col-xs-12 col-md-12 col-md-12 col-lg-12">
 <div style="text-align:left;" class='col-xs-4 col-sm-4 col-md-4 col-lg-4'>
-<div style="" class='col-xs-12 col-sm-12 col-md-12 col-lg-12'>
+<div style="text-align:center;" class='col-xs-12 col-sm-12 col-md-12 col-lg-12'>
     <span style="font-size:3em;" class="ion ion-android-contacts"></span>
     </div>
 
 Strive to remain conscious of the miracles in our daily lives - our children's laughter, our lover's touch, our parents' wisdom, our friends' support.
 </div>
 <div style="text-align:left;" class='col-xs-4 col-sm-4 col-md-4 col-lg-4'>
-<div style="" class='col-xs-12 col-sm-12 col-md-12 col-lg-12'>
+<div style="text-align:center;" class='col-xs-12 col-sm-12 col-md-12 col-lg-12'>
     <span style="font-size:3em;" class="ion ion-android-bulb"></span>
     </div>
 Realize that the choices we make in life can ripple forward and provide the world with positive growth. Each action does not exist separately from all others, but is part of the symphony of life.
 </div>
 <div style="text-align:left;" class='col-xs-4 col-sm-4 col-md-4 col-lg-4'>
-<div style="" class='col-xs-12 col-sm-12 col-md-12 col-lg-12'>
+<div style="text-align:center;" class='col-xs-12 col-sm-12 col-md-12 col-lg-12'>
     <span style="font-size:3em;" class="ion ion-happy-outline"></span>
     </div>
 We must learn to live in accord with our families, remembering that most of the discord we experience comes from our own state of imbalance. It is important to reflect on the goodness we share, not the irritation of the moment.

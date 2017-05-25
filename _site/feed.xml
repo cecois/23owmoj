@@ -5,8 +5,8 @@
     <description>A blog about lorem ipsum dolor sit amet</description>
     <link>http://localhost:3000/</link>
     <atom:link href="http://localhost:3000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 25 May 2017 07:17:39 -0400</pubDate>
-    <lastBuildDate>Thu, 25 May 2017 07:17:39 -0400</lastBuildDate>
+    <pubDate>Thu, 25 May 2017 17:00:08 -0400</pubDate>
+    <lastBuildDate>Thu, 25 May 2017 17:00:08 -0400</lastBuildDate>
     <generator>Jekyll v3.1.6</generator>
     
       <item>
@@ -155,7 +155,7 @@
     
       <item>
         <title>FAQ</title>
-        <description>&lt;h2 id=&quot;section&quot;&gt;#&lt;/h2&gt; &lt;p&gt;Treatment Approach&lt;/p&gt; &lt;p&gt;&lt;img src=&quot;img/lotus.jpg&quot; alt=&quot;Lotus Flower&quot; /&gt;&lt;/p&gt; &lt;h2 id=&quot;frequently-asked-questions&quot;&gt;Frequently Asked QUestions&lt;/h2&gt; &lt;h3 id=&quot;click-on-a-question-to-see-the-answer&quot;&gt;Click on a Question to see the answer&lt;/h3&gt; &lt;p&gt;&lt;a href=&quot;index.html#collapseOne&quot;&gt; You ask all clients to do an initial telephone intake? Why is that? &lt;/a&gt; My goal is to make our time together as beneficial as possible. One way to do that is to be efficient; I don”t want you to feel that we are wasting any time going over basic information when we first meet. So I ask you to speak with my assistant first so she can gather things like past medical history, a list...</description>
+        <description>&lt;h3 id=&quot;faq&quot;&gt;FAQ&lt;/h3&gt; &lt;p&gt;&lt;img src=&quot;/assets/img/lotus.jpg&quot; alt=&quot;Lotus Flower&quot; /&gt;&lt;/p&gt; &lt;h3 id=&quot;click-on-a-question-to-see-the-answer&quot;&gt;(click on a question to see the answer)&lt;/h3&gt; &lt;div class=&quot;row faqwrap&quot;&gt; &lt;div class=&quot;faqq col-xs-12 col-sm-12 col-md-12 col-lg12&quot;&gt;You ask all clients to do an initial telephone intake? Why is that?&lt;/div&gt; &lt;div class=&quot;faqa col-xs-12 col-sm-12 col-md-12 col-lg12&quot;&gt; My goal is to make our time together as beneficial as possible. One way to do that is to be efficient; I don&quot;t want you to feel that we are wasting any time going over basic information when we first meet. So I ask you to speak with my assistant first so she can gather things like...</description>
         <pubDate>Mon, 03 Aug 2015 23:32:44 -0400</pubDate>
         <link>http://localhost:3000/faq/</link>
         <guid isPermaLink="true">http://localhost:3000/faq/</guid>
