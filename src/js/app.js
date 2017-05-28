@@ -1,5 +1,7 @@
 (function( $, window, undefined ) {
 
+$(".faqq").click(function(e){ e.preventDefault(); var faqa=$(e.currentTarget).next('.faqa'); $(faqa).toggle()});
+
   // Menu
   $("#slide").mouseover(function(){
 
@@ -39,6 +41,8 @@
   //   $('.search-field').simpleJekyllSearch();
   // });
   // 
+  // 
+
   
 
 $(document).keyup(function(e) {

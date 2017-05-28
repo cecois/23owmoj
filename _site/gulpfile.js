@@ -110,7 +110,7 @@ gulp.task('stylus', function(){
  */
  gulp.task('watch', function () {
  	gulp.watch('src/styl/**/*.styl', ['stylus']);
- 	gulp.watch('src/js/**/*.js', ['js']);
+ 	gulp.watch('src/js/**/*.js', ['js','jekyll-rebuild']);
  	gulp.watch('src/img/**/*.{jpg,png,gif}', ['imagemin']);
  	gulp.watch(['*.html','*.md', '_includes/*.html', '_layouts/*.html', '_posts/*'], ['jekyll-rebuild']);
  });

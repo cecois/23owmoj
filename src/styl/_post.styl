@@ -4,8 +4,14 @@
   text-align center
   h1,h2,h3,h4,h5
     padding 5% 0 0 0
+  li
+    padding:5% 0 0 0
   p
     padding-top 3%
+  a
+    color:main-a
+    /* offset-x | offset-y | blur-radius | color */
+    text-shadow: 0px 0px 1px rgba(0,0,0,.5);
   blockquote
       margin rem(4%) auto
       width 33%
@@ -67,9 +73,14 @@
     padding: 2% 2% 0 2%
 
 .faqq
-  font-size: 1.4em
-  cursor:pointer
+  color:main-a
+  &:hover
+    font-weight:400
+    color: darken(main-a,25%)
+    text-decoration:underline
+    cursor:pointer
   
 .faqa
-  color:pink
+  color:anno
+  padding-top:12px
   display:none  

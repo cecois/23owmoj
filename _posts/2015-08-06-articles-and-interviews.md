@@ -13,13 +13,10 @@ twitter_text: 'How to install and use this template'
 ---
 
 
-###
-Articles and Interviews
- ![Yin Yang](https://farm9.staticflickr.com/8502/8324558346_fdc5294cb7_o.jpg)
-###
-Radio Interviews
+# Articles and Interviews
+ <div style="margin-bottom:33px;" id="articles" class="col-sm-12 col-md-12 col-lg-12"></div>
 
-![](img/duckprints.png)
+#### Radio Interviews
 
 ["Being with Ron Ash" Radio Interview - February 2015](http://www.blogtalkradio.com/being-with-ron-ash/2015/02/10/helping-you-to-improve-your-physical-spiritual-and-mental-health)
 [
@@ -32,9 +29,7 @@ DreamVision 7 Radio Interview - June 2014
 Dreamvisions 7 Radio Interview - December 2008
 ](index.html#collapseThirtyTwo)
 
-### Articles
-
-![](img/jumbo1.png)
+#### Articles
 
 
 [

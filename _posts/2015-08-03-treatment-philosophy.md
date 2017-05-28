@@ -11,13 +11,15 @@ categories:
 - menud
 ---
 
-## Treatment Philosophy
+# Treatment Philosophy
 
-![Freedom #2](../assets/img/5711616447_a06f45eaac_b.jpg)
+<div style="margin-bottom:33px;" id="freedom" class="col-sm-12 col-md-12 col-lg-12"></div>
 
-> "As a healer, I strive to work with individuals in a way that promotes a peaceful and healthy planet."
+### "As a healer, I strive to work with individuals in a way that promotes a peaceful and healthy planet."
 
 Wendy's philosophy engenders positive healing to counteract the conflict and pain that washes over us in our daily lives. While watching negative images on the news, the many systems of your body are still working in harmony; your heart beats in time, your digestive system assimilates what you feed it, and your mind processes information. And yet, you are being affected by the stressful images being presented.
+
+
 
 <div class='divider col-xs-12 col-md-12 col-lg-12'>
     <span style="color:#1A004B;" class="icom-logo-wolf-print"></span>

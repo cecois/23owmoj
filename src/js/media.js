@@ -18,7 +18,7 @@ document.addEventListener("DOMContentLoaded",
     });
 
 function labnolThumb(id,w) {
-    var z = 25%;
+    var z = 315;
     var thumb = '<img width="'+z+'" src="https://i.ytimg.com/vi/ID/hqdefault.jpg">',
     play = '<div class="play"></div>';
     return thumb.replace("ID", id) + play;
