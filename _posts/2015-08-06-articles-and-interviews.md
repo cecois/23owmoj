@@ -18,19 +18,24 @@ twitter_text: 'How to install and use this template'
 
 #### Radio Interviews
 
-["Being with Ron Ash" Radio Interview - February 2015](http://www.blogtalkradio.com/being-with-ron-ash/2015/02/10/helping-you-to-improve-your-physical-spiritual-and-mental-health)
-[
-DreamVision 7 Radio Interview - June 2014
-](index.html#collapseThirty)
-[
-"Being with Ron Ash" Radio Interview -November 2010
-](index.html#collapseThirtyOne)
-[
-Dreamvisions 7 Radio Interview - December 2008
-](index.html#collapseThirtyTwo)
+<a href="http://www.blogtalkradio.com/being-with-ron-ash/2015/02/10/helping-you-to-improve-your-physical-spiritual-and-mental-health">"Being with Ron Ash" Radio Interview</a> - February 2015
+
+<!-- ---------------------------------- article ----------------- -->
+<div style="margin-top:50px;" class="row artwrap">
+<a class="artq col-xs-12 col-sm-12 col-md-12 col-lg12">DreamVision 7 Radio Interview - June 2014</a>
+<div class="arta col-xs-12 col-sm-12 col-md-12 col-lg12">
+<p></p>
+</div><!-- arta -->
+</div><!-- artwrap -->
+
+[DreamVision 7 Radio Interview - June 2014](index.html#collapseThirty)
+
+["Being with Ron Ash" Radio Interview -November 2010](index.html#collapseThirtyOne)
+
+[Dreamvisions 7 Radio Interview - December 2008](index.html#collapseThirtyTwo)
+
 
 #### Articles
-
 
 [
 Article - April 2017

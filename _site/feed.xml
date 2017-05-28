@@ -5,9 +5,9 @@
     <description>A blog about lorem ipsum dolor sit amet</description>
     <link>http://localhost:3000/</link>
     <atom:link href="http://localhost:3000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 27 May 2017 18:33:47 -0400</pubDate>
-    <lastBuildDate>Sat, 27 May 2017 18:33:47 -0400</lastBuildDate>
-    <generator>Jekyll v3.1.3</generator>
+    <pubDate>Sun, 28 May 2017 13:19:00 -0400</pubDate>
+    <lastBuildDate>Sun, 28 May 2017 13:19:00 -0400</lastBuildDate>
+    <generator>Jekyll v3.1.6</generator>
     
       <item>
         <title>Crystal Images</title>
@@ -123,7 +123,7 @@
     
       <item>
         <title>Articles and Interviews</title>
-        <description>&lt;h1 id=&quot;articles-and-interviews&quot;&gt;Articles and Interviews&lt;/h1&gt; &lt;div style=&quot;margin-bottom:33px;&quot; id=&quot;articles&quot; class=&quot;col-sm-12 col-md-12 col-lg-12&quot;&gt;&lt;/div&gt; &lt;h4 id=&quot;radio-interviews&quot;&gt;Radio Interviews&lt;/h4&gt; &lt;p&gt;&lt;a href=&quot;http://www.blogtalkradio.com/being-with-ron-ash/2015/02/10/helping-you-to-improve-your-physical-spiritual-and-mental-health&quot;&gt;“Being with Ron Ash” Radio Interview - February 2015&lt;/a&gt; &lt;a href=&quot;index.html#collapseThirty&quot;&gt; DreamVision 7 Radio Interview - June 2014 &lt;/a&gt; &lt;a href=&quot;index.html#collapseThirtyOne&quot;&gt; “Being with Ron Ash” Radio Interview -November 2010 &lt;/a&gt; &lt;a href=&quot;index.html#collapseThirtyTwo&quot;&gt; Dreamvisions 7 Radio Interview - December 2008 &lt;/a&gt;&lt;/p&gt; &lt;h4 id=&quot;articles&quot;&gt;Articles&lt;/h4&gt; &lt;p&gt;[ Article - April 2017&lt;/p&gt; &lt;p&gt;Care for Your Feet ](articles/Care-for-Your-Feet-April-2017.pdf)[ Article - January 2017&lt;/p&gt; &lt;p&gt;Cardiovascular Workout ](articles/Cardiovascular Workout - January 23 2017.pdf)[ Article - December 2016&lt;/p&gt; &lt;p&gt;Holiday Happiness ](articles/Holiday Happiness - December 2016.pdf)[ Article - November 2016&lt;/p&gt; &lt;p&gt;Preparing for Winter ](articles/Preparing for Winter -...</description>
+        <description>&lt;h1 id=&quot;articles-and-interviews&quot;&gt;Articles and Interviews&lt;/h1&gt; &lt;div style=&quot;margin-bottom:33px;&quot; id=&quot;articles&quot; class=&quot;col-sm-12 col-md-12 col-lg-12&quot;&gt;&lt;/div&gt; &lt;h4 id=&quot;radio-interviews&quot;&gt;Radio Interviews&lt;/h4&gt; &lt;p&gt;&lt;a href=&quot;http://www.blogtalkradio.com/being-with-ron-ash/2015/02/10/helping-you-to-improve-your-physical-spiritual-and-mental-health&quot;&gt;“Being with Ron Ash” Radio Interview&lt;/a&gt; - February 2015&lt;/p&gt; &lt;!-- ---------------------------------- article ----------------- --&gt; &lt;div style=&quot;margin-top:50px;&quot; class=&quot;row artwrap&quot;&gt; &lt;a class=&quot;artq col-xs-12 col-sm-12 col-md-12 col-lg12&quot;&gt;DreamVision 7 Radio Interview - June 2014&lt;/a&gt; &lt;div class=&quot;arta col-xs-12 col-sm-12 col-md-12 col-lg12&quot;&gt; &lt;p&gt;&lt;/p&gt; &lt;/div&gt;&lt;!-- arta --&gt; &lt;/div&gt; &lt;!-- artwrap --&gt; &lt;p&gt;&lt;a href=&quot;index.html#collapseThirty&quot;&gt;DreamVision 7 Radio Interview - June 2014&lt;/a&gt;&lt;/p&gt; &lt;p&gt;&lt;a href=&quot;index.html#collapseThirtyOne&quot;&gt;“Being with Ron Ash” Radio Interview -November 2010&lt;/a&gt;&lt;/p&gt; &lt;p&gt;&lt;a href=&quot;index.html#collapseThirtyTwo&quot;&gt;Dreamvisions 7 Radio Interview - December 2008&lt;/a&gt;&lt;/p&gt; &lt;h4 id=&quot;articles&quot;&gt;Articles&lt;/h4&gt; &lt;p&gt;[ Article - April 2017&lt;/p&gt; &lt;p&gt;Care for Your Feet ](articles/Care-for-Your-Feet-April-2017.pdf)[ Article - January 2017&lt;/p&gt; &lt;p&gt;Cardiovascular...</description>
         <pubDate>Wed, 05 Aug 2015 23:32:44 -0400</pubDate>
         <link>http://localhost:3000/articles-and-interviews/</link>
         <guid isPermaLink="true">http://localhost:3000/articles-and-interviews/</guid>
