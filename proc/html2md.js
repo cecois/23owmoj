@@ -1,20 +1,48 @@
 const UPNDOWN = require('upndown'),UND = new UPNDOWN(),FS=require('fs'),__=require('underscore')
 ;
 
-var fi = ["whatisa.html"]
-// ["articles.html"
-// ,"crystals.html"
-// ,"faq.html"
-// ,"fees.html"
-// ,"index.html"
-// ,"partnership.html"
-// ,"philosophy.html"
-// ,"resources.html"
-// ,"services.html"
-// ,"souls-companion.html"
-// ,"speaker.html"
-// ,"testimonials.html"
-// ]
+var fi = 
+
+['addicts.html'
+,'age.html'
+,'angermanagement.html'
+,'bluebird.html'
+,'blues.html'
+,'cardiovascular.html'
+,'choosing.html'
+,'cycle.html'
+,'doctortrip.html'
+,'energy.html'
+,'exhaustion.html'
+,'fifteen.html'
+,'firstaid.html'
+,'gottime.html'
+,'healthinsurance.html'
+,'helpyou.html'
+,'history.html'
+,'loneliness.html'
+,'marathon.html'
+,'medium.html'
+,'meno.html'
+,'midlife.html'
+,'naturalaging.html'
+,'neworleans.html'
+,'nontraditional.html'
+,'poweroftouch.html'
+,'sandwich.html'
+,'sheep.html'
+,'shopping.html'
+,'silence.html'
+,'skeptic.html'
+,'stopworld.html'
+,'supplements.html'
+,'surgery.html'
+,'taboo.html'
+,'tikunolum.html'
+,'touch.html'
+,'voyage.html'
+,'whatisa.html'
+,'why.html']
 
 __.each(fi,(f)=>{
 	var ff = "./raws/"+f

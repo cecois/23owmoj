@@ -90,10 +90,322 @@
   
     {
       "title"    : "What is a Medical Intuitive",
+      "category" : "article-bwj",
+      "tags"     : "faq",
+      "url"      : "/article-what-is-a/",
+      "date"     : "31 Jul 2015"
+    } ,
+  
+    {
+      "title"    : "The Involuntary Addicts",
+      "category" : "article-bwj",
+      "tags"     : "faq",
+      "url"      : "/article-loneliness/",
+      "date"     : "29 Aug 2008"
+    } ,
+  
+    {
+      "title"    : "Health Insurance or Cost Avoidance?",
+      "category" : "article-bwj",
+      "tags"     : "faq",
+      "url"      : "/article-health-insurance-or-cost-avoidance/",
+      "date"     : "29 Aug 2008"
+    } ,
+  
+    {
+      "title"    : "Counting Sheep",
+      "category" : "article-bwj",
+      "tags"     : "faq",
+      "url"      : "/article-counting-sheep/",
+      "date"     : "29 Jun 2008"
+    } ,
+  
+    {
+      "title"    : "Anger Management - A Woman&#39;s How-To Guide",
+      "category" : "article-bwj",
+      "tags"     : "faq",
+      "url"      : "/article-anger-management/",
+      "date"     : "29 May 2008"
+    } ,
+  
+    {
+      "title"    : "Choosing an Alternative Healthcare Provider",
+      "category" : "article-bwj",
+      "tags"     : "faq",
+      "url"      : "/article-choosing-an-alternative-healthcare-provider/",
+      "date"     : "29 Feb 2008"
+    } ,
+  
+    {
+      "title"    : "The Sound of Silence",
+      "category" : "article-bwj",
+      "tags"     : "faq",
+      "url"      : "/article-the-sound-of-silence/",
+      "date"     : "27 Feb 2008"
+    } ,
+  
+    {
+      "title"    : "My Trip to the Doctor",
+      "category" : "article-bwj",
+      "tags"     : "faq",
+      "url"      : "/article-my-trip-to-the-doctor/",
+      "date"     : "29 Dec 2007"
+    } ,
+  
+    {
+      "title"    : "Act Your Age",
+      "category" : "article-bwj",
+      "tags"     : "faq",
+      "url"      : "/article-act-your-age/",
+      "date"     : "29 Oct 2007"
+    } ,
+  
+    {
+      "title"    : "The Involuntary Addicts",
+      "category" : "article-bwj",
+      "tags"     : "faq",
+      "url"      : "/article-the-involuntary-addicts/",
+      "date"     : "29 Jun 2007"
+    } ,
+  
+    {
+      "title"    : "Medium: Make Mine Well Done",
+      "category" : "article-bwj",
+      "tags"     : "faq",
+      "url"      : "/article-medium-make-mine-well-done/",
+      "date"     : "29 Jun 2007"
+    } ,
+  
+    {
+      "title"    : "Energy Healing: Can You Feel It?",
+      "category" : "article-bwj",
+      "tags"     : "faq",
+      "url"      : "/article-energy-healing-can-you-feel-it/",
+      "date"     : "29 Apr 2007"
+    } ,
+  
+    {
+      "title"    : "Shopping for Intuitive Services",
       "category" : "article",
       "tags"     : "faq",
-      "url"      : "/what-is-a/",
-      "date"     : "31 Jul 2015"
+      "url"      : "/article-shopping-for-intuitive-services/",
+      "date"     : "29 Mar 2007"
+    } ,
+  
+    {
+      "title"    : "The Sandwich Generation - Caught in the Middle",
+      "category" : "article-bwj",
+      "tags"     : "faq",
+      "url"      : "/article-the-sandwich-generation-caught-in-the-middle/",
+      "date"     : "28 Feb 2007"
+    } ,
+  
+    {
+      "title"    : "They &quot;Haven’t Got Time for the Pain?&quot;",
+      "category" : "article-bwj",
+      "tags"     : "faq",
+      "url"      : "/article-they-havent-got-time-for-the-pain/",
+      "date"     : "29 Dec 2006"
+    } ,
+  
+    {
+      "title"    : "The Last Taboo Topic?",
+      "category" : "article-bwj",
+      "tags"     : "faq",
+      "url"      : "/article-the-last-taboo-topic/",
+      "date"     : "29 Oct 2006"
+    } ,
+  
+    {
+      "title"    : "The Marathon I Never Trained For",
+      "category" : "article-bwj",
+      "tags"     : "faq",
+      "url"      : "/article-the-marathon-i-never-trained-for/",
+      "date"     : "29 Aug 2006"
+    } ,
+  
+    {
+      "title"    : "Mid-Life?",
+      "category" : "article-bwj",
+      "tags"     : "faq",
+      "url"      : "/article-mid-life/",
+      "date"     : "29 Jun 2006"
+    } ,
+  
+    {
+      "title"    : "Have We Lost Touch?",
+      "category" : "article-bwj",
+      "tags"     : "faq",
+      "url"      : "/article-have-we-lost-touch/",
+      "date"     : "29 Apr 2006"
+    } ,
+  
+    {
+      "title"    : "Guided Imagery, a Voyage of Self-Discovery",
+      "category" : "article-bwj",
+      "tags"     : "faq",
+      "url"      : "/article-guided-imagery-a-voyage-of-self-discovery/",
+      "date"     : "27 Feb 2006"
+    } ,
+  
+    {
+      "title"    : "Ain’t No Cure for the Wintertime Blues?",
+      "category" : "article-bwj",
+      "tags"     : "faq",
+      "url"      : "/article-wintertime-blues/",
+      "date"     : "29 Dec 2005"
+    } ,
+  
+    {
+      "title"    : "Reflections on New Orleans",
+      "category" : "article-bwj",
+      "tags"     : "faq",
+      "url"      : "/article-reflections-on-new-orleans/",
+      "date"     : "29 Oct 2005"
+    } ,
+  
+    {
+      "title"    : "Menopause - Not the Musical",
+      "category" : "article-bwj",
+      "tags"     : "faq",
+      "url"      : "/article-menopause-not-the-musical/",
+      "date"     : "29 Aug 2005"
+    } ,
+  
+    {
+      "title"    : "Energetic First Aid: Tools for Diagnosis and Self Healing",
+      "category" : "article-bwj",
+      "tags"     : "faq",
+      "url"      : "/article-energetic-first-aid/",
+      "date"     : "29 Jun 2005"
+    } ,
+  
+    {
+      "title"    : "Stop the World I Want to Get Off",
+      "category" : "article-bwj",
+      "tags"     : "faq",
+      "url"      : "/article-stop-the-world-i-want-to-get-off/",
+      "date"     : "27 Feb 2005"
+    } ,
+  
+    {
+      "title"    : "Why Consult a Medical Intuitive?",
+      "category" : "article-bwj",
+      "tags"     : "faq",
+      "url"      : "/article-why-consult-a-medical-intuitive/",
+      "date"     : "29 Dec 2004"
+    } ,
+  
+    {
+      "title"    : "Thoughts on the Life Cycle",
+      "category" : "article-bwj",
+      "tags"     : "faq",
+      "url"      : "/article-thoughts-on-the-life-cycle/",
+      "date"     : "29 Oct 2004"
+    } ,
+  
+    {
+      "title"    : "The 15-Minute Appointment",
+      "category" : "article-bwj",
+      "tags"     : "faq",
+      "url"      : "/article-the-15-minute-appointment/",
+      "date"     : "29 Aug 2004"
+    } ,
+  
+    {
+      "title"    : "Supplements",
+      "category" : "article-bwj",
+      "tags"     : "faq",
+      "url"      : "/article-supplements/",
+      "date"     : "29 Jun 2004"
+    } ,
+  
+    {
+      "title"    : "Finding the Elusive Bluebird of Happiness",
+      "category" : "article-bwj",
+      "tags"     : "faq",
+      "url"      : "/article-bluebird-of-happiness/",
+      "date"     : "29 Apr 2004"
+    } ,
+  
+    {
+      "title"    : "Preparing for a Successful Surgery",
+      "category" : "article-bwj",
+      "tags"     : "faq",
+      "url"      : "/article-preparing-for-a-successful-surgery/",
+      "date"     : "29 Dec 2003"
+    } ,
+  
+    {
+      "title"    : "Exhaustion",
+      "category" : "article-bwj",
+      "tags"     : "faq",
+      "url"      : "/article-exhaustion/",
+      "date"     : "29 Oct 2003"
+    } ,
+  
+    {
+      "title"    : "What is Natural Aging?",
+      "category" : "article",
+      "tags"     : "faq",
+      "url"      : "/article-what-is-natural-aging/",
+      "date"     : "29 Aug 2003"
+    } ,
+  
+    {
+      "title"    : "The Power of Touch",
+      "category" : "article-bwj",
+      "tags"     : "faq",
+      "url"      : "/article-the-power-of-touch/",
+      "date"     : "29 Jun 2003"
+    } ,
+  
+    {
+      "title"    : "Women and Cardiovascular Health",
+      "category" : "article-bwj",
+      "tags"     : "faq",
+      "url"      : "/article-women-and-cardiovascular-health/",
+      "date"     : "29 Apr 2003"
+    } ,
+  
+    {
+      "title"    : "History of Alternative Healing",
+      "category" : "article-bwj",
+      "tags"     : "faq",
+      "url"      : "/article-history-of-alternative-healing/",
+      "date"     : "29 Dec 2002"
+    } ,
+  
+    {
+      "title"    : "&quot;Tikun Olum&quot; - To Heal the Earth",
+      "category" : "article-bwj",
+      "tags"     : "faq",
+      "url"      : "/article-tikun-olum-to-heal-the-earth/",
+      "date"     : "29 Nov 2002"
+    } ,
+  
+    {
+      "title"    : "A Skeptic&#39;s Experience with a Medical Intuitive",
+      "category" : "article",
+      "tags"     : "faq",
+      "url"      : "/article-a-skeptic-s-experience-with-a-medical-intuitive/",
+      "date"     : "29 Nov 2002"
+    } ,
+  
+    {
+      "title"    : "Nontraditional Therapy",
+      "category" : "article-bwj",
+      "tags"     : "faq",
+      "url"      : "/article-nontraditional-therapy/",
+      "date"     : "29 Aug 2002"
+    } ,
+  
+    {
+      "title"    : "A Personal Look at a Medical Intuitive and Energy Healer",
+      "category" : "article-bwj",
+      "tags"     : "faq",
+      "url"      : "/article-a-personal-look-at-a-medical-intuitive-and-energy-healer/",
+      "date"     : "29 Jun 2002"
     } 
   
 ]

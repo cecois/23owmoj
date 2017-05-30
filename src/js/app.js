@@ -1,6 +1,7 @@
 (function( $, window, undefined ) {
 
 $(".faqq").click(function(e){ e.preventDefault(); var faqa=$(e.currentTarget).next('.faqa'); $(faqa).toggle()});
+$(".artq").click(function(e){ e.preventDefault(); var arta=$(e.currentTarget).next('.arta'); $(arta).toggle()});
 
   // Menu
   $("#slide").mouseover(function(){

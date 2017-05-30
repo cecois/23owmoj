@@ -72,7 +72,7 @@ With significant experience in helping people improve their physical, mental and
 <div class="post-prim">
 Wendy has extensive knowledge in both traditional medicine and non-traditional therapies, and has used her skills to help those who couldn't find relief through traditional means alone.
 
-See Wendy's article <a href="/what-is-a/">"What is a Medical Intuitive"</a> for more information about her abilities.
+See Wendy's article <a href="/article-what-is-a/">"What is a Medical Intuitive"</a> for more information about her abilities.
 </div>
 <!-- ./post-prim -->
 <div class="post-alt">

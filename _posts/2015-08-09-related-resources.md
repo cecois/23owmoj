@@ -13,19 +13,37 @@ twitter_text: 'How to install and use this template'
 ---
 
 
-###
-Related Resources
- ![Shadows of the Setting Sun](https://farm8.staticflickr.com/7772/17640811894_1a44e91beb_z.jpg)
+# Related Resources
 
-> Select any of the links below to visit other sites with information on a holistic approach to mind, body, and spirit wellness.
+<div style="margin-bottom:33px;" id="speaking" class="col-sm-12 col-md-12 col-lg-12"></div>
 
+#### Select any of the links below to visit other sites with information on a holistic approach to mind, body, and spirit wellness.
 
-[![Energy Psych](img/acep.png)](http://www.energypsych.org/)
+-----------------
 
+<ul>
+<li class="col-xs-12 col-sm-12 col-md-12 col-lg-12" style="list-style:none;">
+    
+        <div style="background:url(/assets/img/resources/acep.png);" class="resource-wrapper col-xs-2 col-sm-2 col-md-2 col-lg-2"></div>
+        <div style="text-align:left;display:inline-block;" class="align-middle col-xs-10 col-sm-10 col-md-10 col-lg-10"><a href="http://www.energypsych.org">Association for Comprehensive Energy Psychology</a></div></li>
+</ul>
+
+-----------------
+
+-----------------
+
+<ul>
+<li class="col-xs-12 col-sm-12 col-md-12 col-lg-12" style="list-style:none;">
+    
+        <div style="" class="resource-wrapper col-xs-2 col-sm-2 col-md-2 col-lg-2"></div>
+        <div style="text-align:left;display:inline-block;" class="align-middle col-xs-10 col-sm-10 col-md-10 col-lg-10"><a href="http://www.awakeningpeople.com">Awakening People</a></div></li>
+</ul>
+
+-----------------
 
 [
 ## Awakening People
-](http://www.awakeningpeople.com/)
+](/)
 [![Blessed Herbs](http://www.blessedherbs.com/skin/frontend/blessedherbs/default/images/logo.png)](http://www.blessedherbs.com/)
 
 
