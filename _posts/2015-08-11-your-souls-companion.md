@@ -13,19 +13,28 @@ twitter_text: 'How to install and use this template'
 ---
 
 
-###
-Your Soul's Companion
+## Your Soul's Companion
+
+<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12"><div style="height:315px;" class="youtube-player col-sm-6" data-id="JM-YtUNS5LU"></div>
+</div>
+
+#### Are you spiritually gifted? If you have heard that little voice in your head and wondered, "Where do I begin?" this book is for you.
+
+If you are seeking to discover your own spiritual path, Your Soul's Companion is a practical guide to the spiritual tools you need to thrive in our challenging times.
 
 
 
+<div class='divider col-xs-12 col-md-12 col-lg-12'>
+<span class="icom-logo-fleur"></span>
+</div>
 
 
-> Are you spiritually gifted? If you have heard that little voice in your head and wondered, "Where do I begin?" this book is for you.
 
-If you are seeking to discover your own spiritual path, Your Soul"s Companion is a practical guide to the spiritual tools you need to thrive in our challenging times.
-![](img/jumbo1.png)
+> **Your journey begins here. Let"s get started!**
+>[![](/assets/img/book-souls-companion.jpg)](http://www.amazon.com/Your-Souls-Companion-Spiritual-Journey/dp/1493546910)
+>## [Now available on audiobook!](https://www.amazon.com/Your-Souls-Companion-Spiritual-Journey/dp/B01LOQ0HDI/ref=tmm_aud_swatch_0?_encoding=UTF8&qid=&sr=)
 
-Woven into the informative text are simple exercises and many personal stories from Wendy Marks" fascinating practice as a spiritual teacher and medical intuitive, and from her personal life. You"ll find straightforward explanations of such topics as
+Woven into the informative text are simple exercises and many personal stories from Wendy Marks' fascinating practice as a spiritual teacher and medical intuitive, and from her personal life. You'll find straightforward explanations of such topics as
 
 * shamanism
 * the chakra system
@@ -33,15 +42,14 @@ Woven into the informative text are simple exercises and many personal stories f
 * the different types of intuitive gifts
 * and more...
 
-You"ll learn the cornerstones of spiritual practice, including self-protection and how to set up a sacred space for your own personal retreat.
-![](img/jumbo2.png)
-![](img/bookcover.jpg)
+You'll learn the cornerstones of spiritual practice, including self-protection and how to set up a sacred space for your own personal retreat.
 
-**Your journey begins here. Let"s get started!**
+<div class='divider divider-down col-xs-12 col-md-12 col-lg-12'>
+<span class="icom-logo-fleur"></span>
+</div>
 
-[![](img/amazon.png)](http://www.amazon.com/Your-Souls-Companion-Spiritual-Journey/dp/1493546910)
 
-## [Now available on audiobook!](https://www.amazon.com/Your-Souls-Companion-Spiritual-Journey/dp/B01LOQ0HDI/ref=tmm_aud_swatch_0?_encoding=UTF8&qid=&sr=)
+
 AudioFile Magazine has [just reviewed](http://www.audiofilemagazine.com/reviews/read/124522/) the audiobook of *Your Soul's Companion*:
 
 > "(Wendy Marks') soothing and convincing tone encourages listeners to open themselves to a spiritual map that leads to calm and clarity of mind."
