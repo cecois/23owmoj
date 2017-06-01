@@ -23,7 +23,7 @@ categories:
 <div id="wendy" class="col-sm-12 col-md-12 col-lg-12"></div>
 <!-- <div class="col-sm-2 col-md-2 col-lg-2"></div> -->
     <div class='col-xs-12 col-md-12 col-lg-12 marks-copy'>Wendy Marks is a Medical Intuitive and Rehabilitation Counselor with thirty years of practice in traditional and complementary health therapies.
-<div style="margin-top:15px;"><a href="http://visitor.r20.constantcontact.com/d.jsp?llr=ourelesab&amp;p=oi&amp;m=1118984881806&amp;sit=58jkkwfjb&amp;f=ce6451c5-4206-480f-900c-751ed3eae805" class="btn btn-lg btn-info">Sign Up for Wendy's Email Blog</a></div>
+<div style="margin-top:15px;"><a href="http://visitor.r20.constantcontact.com/d.jsp?llr=ourelesab&amp;p=oi&amp;m=1118984881806&amp;sit=58jkkwfjb&amp;f=ce6451c5-4206-480f-900c-751ed3eae805" style="color:white;" class="btn btn-lg btn-info">Sign Up for Wendy's Email Blog</a></div>
     </div>
 
 <div class='col-xs-12 col-md-12 col-lg-12'>

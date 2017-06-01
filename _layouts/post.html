@@ -1,18 +1,18 @@
 <!DOCTYPE html>
 <html lang="pt-br">
-    {% include head.html %}
-    <body>
-        {% include header-default.html %}
-        <section class="post">
+{% include head.html %}
+<body>
+    {% include header-default.html %}
+    <section class="post">
 
-            <article role="article" id="scroll" class="post-content post-prim">
-                {{ content }}
-            </article>
+        <article role="article" id="scroll" class="post-content">
+            {{ content }}
+        </article>
 
-            <!-- {% include share.html %} -->
-            <!-- {% include author.html %} -->
-            <!-- {% include comments.html %} -->
-            {% include footer.html %}
-        </section>
-    </body>
+        <!-- {% include share.html %} -->
+        <!-- {% include author.html %} -->
+        <!-- {% include comments.html %} -->
+        {% include footer.html %}
+    </section>
+</body>
 </html>

@@ -13,16 +13,18 @@ twitter_text: 'How to install and use this template'
 ---
 
 
-##
-Fee Schedule
+## Fee Schedule
 
-![](img/jumbo1.png)
+<div class="post-prim"><div class='divider col-xs-12 col-md-12 col-lg-12'>
+        <span class="icom-logo-fleur"></span>
+    </div>
 
 Wendy is available for consultation by appointment either in person or by phone. To ensure the best possible service for you, an initial telephone intake interview is required.
 
 Part of Wendy's mission is to educate people to the alternative and augmentative therapies available. If you have questions about these therapies, please call Wendy for a complimentary 15 minute discussion. No question is too simple or too complex.
 
 Business Hours: Weekdays and evenings by appointment.
+
 **Medical Intuition Services:**
 * Initial 90 minute body scan - $350
     This includes a FREE 15-minute follow-up telephone consultation within the first three months of your initial visit.
@@ -40,9 +42,10 @@ Business Hours: Weekdays and evenings by appointment.
 **Shamanic Studies:**
 
 
-* 90 minute session - $165
-![](img/jumbo2.png)
-> Please note: Wendy understands that sometimes the state of the economy can make life difficult for people, and sometimes difficult choices have to be made. However, your mental, spiritual and physical well-being are a priority. Arrangements are available for clients who may need to pay over time.
+* 90 minute session - $165</div>
+
+<div class="post-alt">
+Please note: Wendy understands that sometimes the state of the economy can make life difficult for people, and sometimes difficult choices have to be made. However, your mental, spiritual and physical well-being are a priority. Arrangements are available for clients who may need to pay over time.
 
 ### Appointment Cancellation Policy
 
@@ -56,3 +59,8 @@ If you cannot make your scheduled appointment, you may call and leave a message 
 
 * Appointments of less than a half hour will result in a charge of $50.00 (fifty) dollars.
 * Appointments scheduled for a half hour or more will be charged the amount of the appointment.
+
+<p>&nbsp;</p>
+
+</div>
+
