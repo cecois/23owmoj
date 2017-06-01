@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'icomoon';
-  src:  url('fonts/icomoon.eot?6mrnd8');
-  src:  url('fonts/icomoon.eot?6mrnd8#iefix') format('embedded-opentype'),
-    url('fonts/icomoon.ttf?6mrnd8') format('truetype'),
-    url('fonts/icomoon.woff?6mrnd8') format('woff'),
-    url('fonts/icomoon.svg?6mrnd8#icomoon') format('svg');
+  src:  url('fonts/icomoon.eot?r31dvq');
+  src:  url('fonts/icomoon.eot?r31dvq#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?r31dvq') format('truetype'),
+    url('fonts/icomoon.woff?r31dvq') format('woff'),
+    url('fonts/icomoon.svg?r31dvq#icomoon') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -24,26 +24,8 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
-.icom-logo-bear:before {
-  content: "\e904";
-}
-.icom-logo-fleur:before {
-  content: "\e905";
-}
-.icom-logo-wolf-howl:before {
-  content: "\e906";
-}
-.icom-logo-wolf-leap:before {
-  content: "\e907";
-}
-.icom-logo-wolf-print:before {
-  content: "\e908";
-}
-.icom-logo-wolf-prowl:before {
-  content: "\e909";
-}
-.icom-logo-bear-print:before {
-  content: "\e90a";
+.icom-amazon:before {
+  content: "\e90b";
 }
 .icom-menu:before {
   content: "\e902";
@@ -66,7 +48,27 @@
 .icom-close:before {
   content: "\e903";
 }
+.icom-logo-bear:before {
+  content: "\e904";
+}
+.icom-logo-fleur:before {
+  content: "\e905";
+}
+.icom-logo-wolf-howl:before {
+  content: "\e906";
+}
+.icom-logo-wolf-leap:before {
+  content: "\e907";
+}
+.icom-logo-wolf-print:before {
+  content: "\e908";
+}
+.icom-logo-wolf-prowl:before {
+  content: "\e909";
+}
+.icom-logo-bear-print:before {
+  content: "\e90a";
+}
 .icom-creative-commons:before {
   content: "\e900";
 }
-
