@@ -13,19 +13,23 @@ categories:
 
 # Treatment Philosophy
 
-<div style="margin-bottom:33px;" id="freedom" class="col-sm-12 col-md-12 col-lg-12"></div>
+<div class="post-prim"><div style="margin-bottom:33px;" id="freedom" class="col-sm-12 col-md-12 col-lg-12"></div>
 
-### "As a healer, I strive to work with individuals in a way that promotes a peaceful and healthy planet."
+<h3>"As a healer, I strive to work with individuals in a way that promotes a peaceful and healthy planet."</h3>
 
 Wendy's philosophy engenders positive healing to counteract the conflict and pain that washes over us in our daily lives. While watching negative images on the news, the many systems of your body are still working in harmony; your heart beats in time, your digestive system assimilates what you feed it, and your mind processes information. And yet, you are being affected by the stressful images being presented.
 
 
 
+
+</div>
+
+<div class="post-alt">
 <div class='divider col-xs-12 col-md-12 col-lg-12'>
     <span style="color:#1A004B;" class="icom-logo-wolf-print"></span>
 </div>
 
-### How do we keep the negative influences at bay, while simultaneously enjoying our life on this amazing blue planet?
+<h3>How do we keep the negative influences at bay, while simultaneously enjoying our life on this amazing blue planet?</h3>
 
 
 <div style="padding-top:15px;" class="col-xs-12 col-md-12 col-md-12 col-lg-12">
@@ -57,3 +61,4 @@ As a part of the world community, we all must make a place in our lives for heal
 
 We must connect and be conscious of our shared ability and responsibility to heal. In this way we can all move toward a place of renewal and peace.
 
+</div>

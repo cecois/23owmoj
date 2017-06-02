@@ -14,9 +14,10 @@ twitter_text: 'How to install and use this template'
 
 
 # Articles and Interviews
- <div style="margin-bottom:33px;" id="articles_y_interviews" class="col-sm-12 col-md-12 col-lg-12"></div>
 
-## Radio Interviews
+<div class="post-prim"><div style="margin-bottom:33px;" id="articles_y_interviews" class="col-sm-12 col-md-12 col-lg-12"></div>
+
+<h2>Radio Interviews</h2>
 
 <a href="http://www.blogtalkradio.com/being-with-ron-ash/2015/02/10/helping-you-to-improve-your-physical-spiritual-and-mental-health">"Being with Ron Ash" Radio Interview</a> - February 2015
 
@@ -43,9 +44,10 @@ twitter_text: 'How to install and use this template'
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/241500088&amp;color=ff5500"></iframe>
 </div><!-- arta -->
 </div><!-- artwrap -->
+</div><!-- prim -->
 
-
-## Articles
+<div class="post-alt">
+<h2>Articles</h2>
 
 <div class="row">
 <div class="art-h col-md-8 col-md-offset-2">
@@ -165,8 +167,10 @@ twitter_text: 'How to install and use this template'
     A Skeptic's Experience with a Medical Intuitive</a> (BodyMindSpirit Magazine - Winter 2002)
 </div>
     </div> <!-- ./row -->
+</div><!-- alt -->
 
-### Wendy's column in Boston Women's Journal
+<div class="post-prim">
+<h2>Wendy's column in Boston Women's Journal</h2>
 
 <ul>
       {% for p in site.categories.article-bwj reversed %}
@@ -175,3 +179,4 @@ twitter_text: 'How to install and use this template'
       </li>
       {% endfor %}
     </ul>
+    </div><!-- prim -->

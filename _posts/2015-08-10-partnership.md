@@ -13,11 +13,12 @@ twitter_text: 'How to install and use this template'
 ---
 
 
-## Partnership for Advancing Tomorrow's Healthcare
+# Partnership for Advancing Tomorrow's Healthcare
 
+<div class="post-prim">
 <div style="margin-bottom:33px;" id="partnership" class="col-sm-12 col-md-12 col-lg-12"></div>
 
-#### The Partnership for Advancing Tomorrow's Healthcare (PATH) is a planned center for holistic integrative treatment in the greater Boston area. The goal is to create a patient-centered facility focused on the whole person. Wellness of mind, body, and spirit will be available in one place, with each person able to follow their own path to wellness
+<h4>The Partnership for Advancing Tomorrow's Healthcare (PATH) is a planned center for holistic integrative treatment in the greater Boston area. The goal is to create a patient-centered facility focused on the whole person. Wellness of mind, body, and spirit will be available in one place, with each person able to follow their own path to wellness.</h4>
 
 Many types of practitioners will gather at PATH to focus on an individual's needs, providing an alternative to the scattered approach to wellness and care that often occurs. This traditional approach has become untenable for many people due to the expense and the time wasted searching for both the correct method and practitioner to solve a problem. Here all major alternative modalities, and some Western medical ones, would be under one roof.
 
@@ -29,5 +30,6 @@ Some of the additional areas planned include a wellness center with yoga, spirit
 <div class='divider divider-down col-xs-12 col-md-12 col-lg-12'>
 <span class="icom-logo-fleur"></span>
 </div>
+</div><!-- prim -->
 
-&nbsp;
+<div class="post-prim">&nbsp;</div>

@@ -15,21 +15,24 @@ twitter_text: 'How to install and use this template'
 
 # Speaker Information
 
+<div class="post-prim">
 <div style="margin-bottom:33px;" id="speaking" class="col-sm-12 col-md-12 col-lg-12"></div>
 
-### With a broad range of knowledge in traditional medicine and non-traditional therapies, Wendy is a sought-after speaker at conferences, expos, universities, health centers and informal meetings.
+<h3>With a broad range of knowledge in traditional medicine and non-traditional therapies, Wendy is a sought-after speaker at conferences, expos, universities, health centers and informal meetings.</h3>
 
 The interaction between her and the audience, and the opportunity for learning, never fails to provide a sense of exhilaration.
 
 Wendy also writes extensively on numerous topics, and can provide your publication with a creative and innovative perspective.
 
 Please call Wendy to discuss how she can educate, enlighten and provide your group with a vast range of information on traditional and non-traditional topics. Fees may vary depending on audience size, location and group composition.
+</div><!-- prim -->
 
+<div class="post-alt">
 <div class='divider col-xs-12 col-md-12 col-lg-12'>
     <span class="icom-logo-fleur"></span>
 </div>
 
-### Topics include:
+<h3>Topics include:</h3>
 
 <ul><li style="list-style:none;margin:0;padding:1% 0 0 0;">Psychic Abilities and Spirituality</li>
 <li style="list-style:none;margin:0;padding:1% 0 0 0;">Developing Your Intuition</li>
@@ -40,10 +43,10 @@ Please call Wendy to discuss how she can educate, enlighten and provide your gro
 <li style="list-style:none;margin:0;padding:1% 0 0 0;">Chronic vs. Acute Illness: Western and Alternative Care Models</li>
 <li style="list-style:none;margin:0;padding:1% 0 0 0;">Supplements and Vitamins: The New Drugs, Uses and Abuses</li>
 <li style="list-style:none;margin:0;padding:1% 0 0 0;">Energetic First Aid</li></ul>
+</div><!-- alt -->
 
-
-### Past engagements:
-
+<div class="post-prim">
+<h3>Past engagements:</h3>
 <ul>
 <li style="list-style:none;margin;0;padding:1% 0 0 0;">National Organization for Women, Women's 40+ Owner's Manual, Boston, MA</li>
 <li style="list-style:none;margin;0;padding:1% 0 0 0;">National Institute for Whole Health, Newton/Wellesley Hospital, Newton, MA</li>
@@ -57,3 +60,4 @@ Please call Wendy to discuss how she can educate, enlighten and provide your gro
 <li style="list-style:none;margin;0;padding:1% 0 0 0;">Judith Swack Associates, Needham, MA</li>
 <li style="list-style:none;margin;0;padding:1% 0 0 0;">Marino Center, Cambridge, MA</li>
 <li style="list-style:none;margin;0;padding:1% 0 0 0;">Maya's Dream Healing Arts Center, Natick, MA</li></ul>
+</div><!-- prim -->

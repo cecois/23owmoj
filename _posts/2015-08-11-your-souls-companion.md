@@ -13,29 +13,22 @@ twitter_text: 'How to install and use this template'
 ---
 
 
-## Your Soul's Companion
+# Your Soul's Companion
 
+<div class="post-prim">
 <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
 <div style="" class="youtube-player col-xs-12 col-sm-12 col-md-12 col-lg-12" data-id="JM-YtUNS5LU"></div>
 </div>
 
-### Are you spiritually gifted? If you have heard that little voice in your head and wondered, "Where do I begin?" this book is for you.
+<h4>Are you spiritually gifted? If you have heard that little voice in your head and wondered, "Where do I begin?" this book is for you.</h4>
 
-<div style="padding:0 20% 0 20%">
 If you are seeking to discover your own spiritual path, Your Soul's Companion is a practical guide to the spiritual tools you need to thrive in our challenging times.
 
-&nbsp;
+</div><!-- prim -->
 
-</div>
 
-<div class="col-xs-12 col-md-12 col-lg-12">
 
-<div class='divider col-xs-12 col-md-12 col-lg-12'>
-<span class="icom-logo-fleur"></span>
-</div>
-
-&nbsp;
-
+<div class="post-alt">
 Woven into the informative text are simple exercises and many personal stories from Wendy Marks' fascinating practice as a spiritual teacher and medical intuitive, and from her personal life. You'll find straightforward explanations of such topics as
 
 <ul><li style="padding:1% 0 0 0">shamanism</li>
@@ -47,25 +40,23 @@ Woven into the informative text are simple exercises and many personal stories f
 
 You'll learn the cornerstones of spiritual practice, including self-protection and how to set up a sacred space for your own personal retreat.
 
-<div class='divider divider-down col-xs-12 col-md-12 col-lg-12'>
-<span class="icom-logo-fleur"></span>
-</div>
+</div><!-- alt -->
 
-&nbsp;
-</div>
 
-[![](/assets/img/book-souls-companion.jpg)](http://www.amazon.com/Your-Souls-Companion-Spiritual-Journey/dp/1493546910)
+<div class="post-prim">
 
-**Your journey begins here. Let's get started!**
+<a href="http://www.amazon.com/Your-Souls-Companion-Spiritual-Journey/dp/1493546910"><img src="/assets/img/book-souls-companion.jpg"/></a>
+
+<h3>Your journey begins here. Let's get started!</h3>
 
 <a href="http://www.amazon.com/Your-Souls-Companion-Spiritual-Journey/dp/1493546910"><span style="" class="icom-amazon ico-a"></span></a>
 
-## [Now available on audiobook!](https://www.amazon.com/Your-Souls-Companion-Spiritual-Journey/dp/B01LOQ0HDI/ref=tmm_aud_swatch_0?_encoding=UTF8&qid=&sr=)
+<h3><a href="https://www.amazon.com/Your-Souls-Companion-Spiritual-Journey/dp/B01LOQ0HDI/ref=tmm_aud_swatch_0?_encoding=UTF8&qid=&sr=">Now available on audiobook!</a></h3>
 
 
 
 
-#### AudioFile Magazine has [just reviewed](http://www.audiofilemagazine.com/reviews/read/124522/) the audiobook of *Your Soul's Companion*:
+<h3>AudioFile Magazine has <a href="http://www.audiofilemagazine.com/reviews/read/124522/">just reviewed</a> the audiobook of *Your Soul's Companion*:</h3>
 
 <div style="margin-bottom:20px;" class="col-xs-12 col-md-12 col-lg-12">
 <div class="col-xs-3 col-sm-3 col-md-3 col-lg-3"></div>
@@ -82,7 +73,4 @@ You'll learn the cornerstones of spiritual practice, including self-protection a
 &nbsp;
 &nbsp;
 &nbsp;
-
-
-
-
+</div><!-- prim -->
